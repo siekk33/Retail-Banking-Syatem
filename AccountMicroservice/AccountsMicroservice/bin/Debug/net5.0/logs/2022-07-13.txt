@@ -1,0 +1,54 @@
+2022-07-13 13:43:13,965 [1] INFO  App  
+ Now listening on: https://localhost:6001 
+ 
+2022-07-13 13:43:14,119 [1] INFO  App  
+ Now listening on: http://localhost:6000 
+ 
+2022-07-13 13:43:14,138 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-13 13:43:14,169 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-13 13:43:14,186 [1] INFO  App  
+ Content root path: C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\AccountMicroservice\AccountsMicroservice 
+ 
+2022-07-13 15:44:57,072 [1] INFO  App  
+ Now listening on: https://localhost:6001 
+ 
+2022-07-13 15:44:57,248 [1] INFO  App  
+ Now listening on: http://localhost:6000 
+ 
+2022-07-13 15:44:57,290 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-13 15:44:57,309 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-13 15:44:57,362 [1] INFO  App  
+ Content root path: C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\AccountMicroservice\AccountsMicroservice 
+ 
+2022-07-13 15:46:30,123 [21] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-13 15:46:48,021 [22] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-13 15:47:12,985 [26] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-13 15:47:14,004 [22] DEBUG App  
+ deposit() : Account Id Found. 
+ 
+2022-07-13 15:47:14,006 [22] DEBUG App  
+ deposit(): Amount Rs.5000 Sucessfully deposited into Account ID : 9922 
+ 
+2022-07-13 15:47:14,006 [22] DEBUG App  
+ deposit(): Statment list updated 
+ 
+2022-07-13 15:47:14,008 [22] DEBUG App  
+ deposit(): Transaction list updated 
+ 
+2022-07-13 15:47:20,149 [19] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 

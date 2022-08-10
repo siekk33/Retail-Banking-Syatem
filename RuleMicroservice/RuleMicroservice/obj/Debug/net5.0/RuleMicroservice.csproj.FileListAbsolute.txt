@@ -1,0 +1,305 @@
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\log4net.config
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\appsettings.Development.json
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\appsettings.json
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.exe
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.deps.json
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.runtimeconfig.json
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.runtimeconfig.dev.json
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.dll
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\ref\RuleMicroservice.dll
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.pdb
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\log4net.dll
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\NLog.dll
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\nunit.framework.dll
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.csproj.AssemblyReference.cache
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.AssemblyInfoInputs.cache
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.AssemblyInfo.cs
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.csproj.CoreCompileInputs.cache
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.MvcApplicationPartsAssemblyInfo.cs
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.MvcApplicationPartsAssemblyInfo.cache
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\staticwebassets\RuleMicroservice.StaticWebAssets.Manifest.cache
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\staticwebassets\RuleMicroservice.StaticWebAssets.xml
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\scopedcss\bundle\RuleMicroservice.styles.css
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.RazorTargetAssemblyInfo.cache
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.csproj.CopyComplete
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.dll
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\ref\RuleMicroservice.dll
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.pdb
+F:\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.genruntimeconfig.cache
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\log4net.config
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\appsettings.Development.json
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\appsettings.json
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.exe
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.deps.json
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.runtimeconfig.json
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.runtimeconfig.dev.json
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\ref\RuleMicroservice.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.pdb
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\log4net.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\NLog.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\nunit.framework.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.csproj.AssemblyReference.cache
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.AssemblyInfoInputs.cache
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.AssemblyInfo.cs
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.csproj.CoreCompileInputs.cache
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.MvcApplicationPartsAssemblyInfo.cs
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.MvcApplicationPartsAssemblyInfo.cache
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\staticwebassets\RuleMicroservice.StaticWebAssets.Manifest.cache
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\staticwebassets\RuleMicroservice.StaticWebAssets.xml
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\scopedcss\bundle\RuleMicroservice.styles.css
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.RazorTargetAssemblyInfo.cache
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\ref\RuleMicroservice.dll
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.pdb
+D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.genruntimeconfig.cache
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\log4net.config
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.exe
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.deps.json
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.runtimeconfig.json
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.runtimeconfig.dev.json
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.dll
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\ref\RuleMicroservice.dll
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.pdb
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\log4net.dll
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\NLog.dll
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.csproj.AssemblyReference.cache
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.AssemblyInfoInputs.cache
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.AssemblyInfo.cs
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\staticwebassets\RuleMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\staticwebassets\RuleMicroservice.StaticWebAssets.xml
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\scopedcss\bundle\RuleMicroservice.styles.css
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.dll
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\ref\RuleMicroservice.dll
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.pdb
+C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.genruntimeconfig.cache
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\log4net.config
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\appsettings.Development.json
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\appsettings.json
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.exe
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.deps.json
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.runtimeconfig.json
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.runtimeconfig.dev.json
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\ref\RuleMicroservice.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.pdb
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\log4net.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\NLog.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\nunit.framework.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.csproj.AssemblyReference.cache
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.AssemblyInfoInputs.cache
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.AssemblyInfo.cs
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.csproj.CoreCompileInputs.cache
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.MvcApplicationPartsAssemblyInfo.cs
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.MvcApplicationPartsAssemblyInfo.cache
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\staticwebassets\RuleMicroservice.StaticWebAssets.Manifest.cache
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\staticwebassets\RuleMicroservice.StaticWebAssets.xml
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\scopedcss\bundle\RuleMicroservice.styles.css
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.RazorTargetAssemblyInfo.cache
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\ref\RuleMicroservice.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.pdb
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.genruntimeconfig.cache
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\log4net.config
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.exe
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.deps.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.runtimeconfig.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.runtimeconfig.dev.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\ref\RuleMicroservice.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.pdb
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\log4net.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\NLog.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.csproj.AssemblyReference.cache
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.AssemblyInfoInputs.cache
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.AssemblyInfo.cs
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\staticwebassets\RuleMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\staticwebassets\RuleMicroservice.StaticWebAssets.xml
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\scopedcss\bundle\RuleMicroservice.styles.css
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.csproj.CopyComplete
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\ref\RuleMicroservice.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.pdb
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.genruntimeconfig.cache
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\log4net.config
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.exe
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.deps.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.runtimeconfig.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.runtimeconfig.dev.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\ref\RuleMicroservice.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.pdb
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\log4net.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\NLog.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.csproj.AssemblyReference.cache
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.AssemblyInfoInputs.cache
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.AssemblyInfo.cs
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\staticwebassets\RuleMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\staticwebassets\RuleMicroservice.StaticWebAssets.xml
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\scopedcss\bundle\RuleMicroservice.styles.css
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.csproj.CopyComplete
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\ref\RuleMicroservice.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.pdb
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.genruntimeconfig.cache
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\log4net.config
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\appsettings.Development.json
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\appsettings.json
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.StaticWebAssets.xml
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.exe
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.deps.json
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.runtimeconfig.json
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.runtimeconfig.dev.json
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\RuleMicroservice.pdb
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\log4net.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\NLog.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\nunit.framework.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.csproj.AssemblyReference.cache
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.AssemblyInfoInputs.cache
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.AssemblyInfo.cs
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.csproj.CoreCompileInputs.cache
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.MvcApplicationPartsAssemblyInfo.cs
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.MvcApplicationPartsAssemblyInfo.cache
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\scopedcss\bundle\RuleMicroservice.styles.css
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\staticwebassets\RuleMicroservice.StaticWebAssets.Manifest.cache
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.RazorTargetAssemblyInfo.cache
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.csproj.CopyComplete
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\refint\RuleMicroservice.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.pdb
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\RuleMicroservice.genruntimeconfig.cache
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice\obj\Debug\net5.0\ref\RuleMicroservice.dll

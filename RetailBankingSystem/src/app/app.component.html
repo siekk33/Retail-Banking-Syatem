@@ -1,0 +1,20 @@
+<nav class="navbar navbar-expand navbar-secondary bg-info" *ngIf="user">
+  <div class="container justify-content-center">
+      <a class="navbar-brand"><b id="Logo">Retail Banking System</b></a>
+      <!-- <a class="nav-item nav-link" routerLink="/">Login</a> -->
+      <a class="nav-item nav-link" routerLink="/home" *ngIf="isloggedin"><b>Home</b></a>
+      <a class="nav-item nav-link" routerLink="/admin" *ngIf="isAdmin"><b>Admin</b></a>
+      <a class="nav-item nav-link" (click)="logout()" *ngIf="isloggedin"><b>Logout</b></a>
+  </div>
+</nav>
+
+<!-- main app container -->
+<div class="container">
+  <router-outlet></router-outlet>
+</div>
+
+<footer class="footer mt-auto py-3 bg-info">
+  <div class="container d-flex justify-content-center">
+      <span id="copyright" >&copy; Developed & Designed by POD 4 (<b>Harsh Shukla, Akash Rana, Shalini.A.A, Abhishek Kumar, Green Manish.</b>) 2022</span>
+  </div>
+</footer>

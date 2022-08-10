@@ -1,0 +1,357 @@
+2022-07-14 21:46:51,021 [1] INFO  App  
+ Now listening on: https://localhost:4001 
+ 
+2022-07-14 21:46:51,551 [1] INFO  App  
+ Now listening on: http://localhost:4000 
+ 
+2022-07-14 21:46:52,153 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-14 21:46:52,853 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-14 21:46:52,964 [1] INFO  App  
+ Content root path: C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\AuthenticationMicroservice\Authentication 
+ 
+2022-07-14 21:55:06,445 [11] INFO  App  
+ Authenticating User 
+ 
+2022-07-14 21:55:06,616 [11] INFO  App  
+ token Generated 
+ 
+2022-07-14 21:55:16,763 [15] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000000F, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Customers 
+ 
+2022-07-14 21:55:16,767 [15] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000000F, previousRequestId: no previous request id, message: /gateway/customers is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-14 21:55:16,771 [15] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000000F, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/customers 
+ 
+2022-07-14 21:55:16,780 [15] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000000F, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-14 21:55:16,783 [15] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000000F, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-14 21:55:16,785 [15] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000000F, previousRequestId: no previous request id, message: /api/Customers route does not require user to be authorized 
+ 
+2022-07-14 21:55:17,201 [16] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000000F, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:5001/api/Customers 
+ 
+2022-07-14 21:59:43,279 [25] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000001B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Customers 
+ 
+2022-07-14 21:59:43,300 [25] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000001B, previousRequestId: no previous request id, message: /gateway/customers is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-14 21:59:43,312 [25] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000001B, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/customers 
+ 
+2022-07-14 21:59:43,316 [25] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000001B, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-14 21:59:43,320 [25] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000001B, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-14 21:59:43,324 [25] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000001B, previousRequestId: no previous request id, message: /api/Customers route does not require user to be authorized 
+ 
+2022-07-14 21:59:43,343 [14] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000001B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:5001/api/Customers 
+ 
+2022-07-14 22:00:30,948 [25] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000023, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Customers 
+ 
+2022-07-14 22:00:30,952 [25] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000023, previousRequestId: no previous request id, message: /gateway/customers is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-14 22:00:30,966 [25] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000023, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/customers 
+ 
+2022-07-14 22:00:30,969 [25] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000023, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-14 22:00:30,973 [25] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000023, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-14 22:00:30,977 [25] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000023, previousRequestId: no previous request id, message: /api/Customers route does not require user to be authorized 
+ 
+2022-07-14 22:00:30,998 [27] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000023, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:5001/api/Customers 
+ 
+2022-07-14 22:02:14,663 [31] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000002F, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Accounts/GetCustomerAccountDetailsById?customerId={id} 
+ 
+2022-07-14 22:02:14,666 [31] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000002F, previousRequestId: no previous request id, message: /gateway/customerAccountDetails/991 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-14 22:02:14,674 [31] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000002F, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/customerAccountDetails/991 
+ 
+2022-07-14 22:02:14,678 [31] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000002F, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-14 22:02:14,680 [31] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000002F, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-14 22:02:14,683 [31] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000002F, previousRequestId: no previous request id, message: /api/Accounts/GetCustomerAccountDetailsById?customerId={id} route does not require user to be authorized 
+ 
+2022-07-14 22:02:15,412 [29] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000002F, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=991 
+ 
+2022-07-14 22:02:34,903 [15] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000003B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Accounts/GetCustomerAccountDetailsById?customerId={id} 
+ 
+2022-07-14 22:02:34,909 [15] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000003B, previousRequestId: no previous request id, message: /gateway/customerAccountDetails/991 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-14 22:02:34,916 [15] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000003B, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/customerAccountDetails/991 
+ 
+2022-07-14 22:02:34,921 [15] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000003B, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-14 22:02:34,926 [15] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000003B, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-14 22:02:34,929 [15] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000003B, previousRequestId: no previous request id, message: /api/Accounts/GetCustomerAccountDetailsById?customerId={id} route does not require user to be authorized 
+ 
+2022-07-14 22:02:34,951 [28] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000003B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=991 
+ 
+2022-07-14 22:06:33,912 [12] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000043, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Transaction/withdraw?accountId={id}&amount={amt} 
+ 
+2022-07-14 22:06:33,917 [12] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000043, previousRequestId: no previous request id, message: /gateway/tWithdraw/9911/5000 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-14 22:06:33,920 [12] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000043, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/tWithdraw/9911/5000 
+ 
+2022-07-14 22:06:33,922 [12] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000043, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-14 22:06:33,924 [12] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000043, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-14 22:06:33,927 [12] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000043, previousRequestId: no previous request id, message: /api/Transaction/withdraw?accountId={id}&amount={amt} route does not require user to be authorized 
+ 
+2022-07-14 22:06:35,226 [13] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000043, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7001/api/Transaction/withdraw?accountId=9911&amount=5000 
+ 
+2022-07-14 22:06:57,483 [13] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000047, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Transaction/withdraw?accountId={id}&amount={amt} 
+ 
+2022-07-14 22:06:57,490 [13] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000047, previousRequestId: no previous request id, message: /gateway/tWithdraw/9911/4000 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-14 22:06:57,506 [13] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000047, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/tWithdraw/9911/4000 
+ 
+2022-07-14 22:06:57,515 [13] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000047, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-14 22:06:57,520 [13] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000047, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-14 22:06:57,524 [13] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000047, previousRequestId: no previous request id, message: /api/Transaction/withdraw?accountId={id}&amount={amt} route does not require user to be authorized 
+ 
+2022-07-14 22:06:57,773 [33] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000047, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7001/api/Transaction/withdraw?accountId=9911&amount=4000 
+ 
+2022-07-14 22:07:04,760 [15] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000004B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Transaction/withdraw?accountId={id}&amount={amt} 
+ 
+2022-07-14 22:07:04,765 [15] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000004B, previousRequestId: no previous request id, message: /gateway/tWithdraw/9911/1 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-14 22:07:04,768 [15] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000004B, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/tWithdraw/9911/1 
+ 
+2022-07-14 22:07:04,773 [15] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000004B, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-14 22:07:04,778 [15] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000004B, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-14 22:07:04,780 [15] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000004B, previousRequestId: no previous request id, message: /api/Transaction/withdraw?accountId={id}&amount={amt} route does not require user to be authorized 
+ 
+2022-07-14 22:07:04,843 [36] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000004B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7001/api/Transaction/withdraw?accountId=9911&amount=1 
+ 
+2022-07-14 22:07:16,382 [37] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000004F, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Transaction/withdraw?accountId={id}&amount={amt} 
+ 
+2022-07-14 22:07:16,385 [37] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000004F, previousRequestId: no previous request id, message: /gateway/tWithdraw/9911/499 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-14 22:07:16,387 [37] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000004F, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/tWithdraw/9911/499 
+ 
+2022-07-14 22:07:16,390 [37] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000004F, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-14 22:07:16,393 [37] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000004F, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-14 22:07:16,397 [37] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000004F, previousRequestId: no previous request id, message: /api/Transaction/withdraw?accountId={id}&amount={amt} route does not require user to be authorized 
+ 
+2022-07-14 22:07:16,462 [33] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000004F, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7001/api/Transaction/withdraw?accountId=9911&amount=499 
+ 
+2022-07-14 22:07:21,590 [13] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000053, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Transaction/withdraw?accountId={id}&amount={amt} 
+ 
+2022-07-14 22:07:21,595 [13] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000053, previousRequestId: no previous request id, message: /gateway/tWithdraw/9911/1 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-14 22:07:21,598 [13] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000053, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/tWithdraw/9911/1 
+ 
+2022-07-14 22:07:21,602 [13] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000053, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-14 22:07:21,605 [13] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000053, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-14 22:07:21,609 [13] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000053, previousRequestId: no previous request id, message: /api/Transaction/withdraw?accountId={id}&amount={amt} route does not require user to be authorized 
+ 
+2022-07-14 22:07:21,651 [36] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000053, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7001/api/Transaction/withdraw?accountId=9911&amount=1 
+ 
+2022-07-14 22:07:32,403 [12] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000005B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Accounts/GetCustomerAccountDetailsById?customerId={id} 
+ 
+2022-07-14 22:07:32,407 [12] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000005B, previousRequestId: no previous request id, message: /gateway/customerAccountDetails/991 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-14 22:07:32,411 [12] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000005B, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/customerAccountDetails/991 
+ 
+2022-07-14 22:07:32,418 [12] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000005B, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-14 22:07:32,423 [12] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000005B, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-14 22:07:32,428 [12] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000005B, previousRequestId: no previous request id, message: /api/Accounts/GetCustomerAccountDetailsById?customerId={id} route does not require user to be authorized 
+ 
+2022-07-14 22:07:32,453 [33] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000005B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=991 
+ 
+2022-07-14 22:07:46,042 [15] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000063, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Transaction/withdraw?accountId={id}&amount={amt} 
+ 
+2022-07-14 22:07:46,048 [15] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000063, previousRequestId: no previous request id, message: /gateway/tWithdraw/9911/1 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-14 22:07:46,055 [15] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000063, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/tWithdraw/9911/1 
+ 
+2022-07-14 22:07:46,059 [15] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000063, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-14 22:07:46,062 [15] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000063, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-14 22:07:46,064 [15] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000063, previousRequestId: no previous request id, message: /api/Transaction/withdraw?accountId={id}&amount={amt} route does not require user to be authorized 
+ 
+2022-07-14 22:07:46,157 [33] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000063, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7001/api/Transaction/withdraw?accountId=9911&amount=1 
+ 
+2022-07-14 22:07:52,363 [37] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000067, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Transaction/withdraw?accountId={id}&amount={amt} 
+ 
+2022-07-14 22:07:52,367 [37] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000067, previousRequestId: no previous request id, message: /gateway/tWithdraw/9911/100 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-14 22:07:52,369 [37] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000067, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/tWithdraw/9911/100 
+ 
+2022-07-14 22:07:52,372 [37] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000067, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-14 22:07:52,375 [37] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000067, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-14 22:07:52,378 [37] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000067, previousRequestId: no previous request id, message: /api/Transaction/withdraw?accountId={id}&amount={amt} route does not require user to be authorized 
+ 
+2022-07-14 22:07:52,431 [35] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000067, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7001/api/Transaction/withdraw?accountId=9911&amount=100 
+ 
+2022-07-14 22:16:50,258 [36] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000073, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Transaction/getTransactions?customerId={id} 
+ 
+2022-07-14 22:16:50,263 [36] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000073, previousRequestId: no previous request id, message: /gateway/transactions/991 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-14 22:16:50,266 [36] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000073, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/transactions/991 
+ 
+2022-07-14 22:16:50,269 [36] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000073, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-14 22:16:50,271 [36] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000073, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-14 22:16:50,274 [36] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000073, previousRequestId: no previous request id, message: /api/Transaction/getTransactions?customerId={id} route does not require user to be authorized 
+ 
+2022-07-14 22:16:50,384 [39] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:00000073, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7001/api/Transaction/getTransactions?customerId=991 
+ 
+2022-07-14 22:17:49,691 [15] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000007B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Accounts/GetAccountStatement?accountId={id}&fromDate={fdate}&toDate={tdate} 
+ 
+2022-07-14 22:17:49,695 [15] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000007B, previousRequestId: no previous request id, message: /gateway/accountStatement/9911/2021-01-01/2023-01-01 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-14 22:17:49,699 [15] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000007B, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/accountStatement/9911/2021-01-01/2023-01-01 
+ 
+2022-07-14 22:17:49,702 [15] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000007B, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-14 22:17:49,705 [15] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000007B, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-14 22:17:49,710 [15] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000007B, previousRequestId: no previous request id, message: /api/Accounts/GetAccountStatement?accountId={id}&fromDate={fdate}&toDate={tdate} route does not require user to be authorized 
+ 
+2022-07-14 22:17:49,763 [34] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000007B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:6001/api/Accounts/GetAccountStatement?accountId=9911&fromDate=2021-01-01&toDate=2023-01-01 
+ 
+2022-07-14 22:17:49,774 [12] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000007F, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Accounts/GetAccountStatement?accountId={id}&fromDate={fdate}&toDate={tdate} 
+ 
+2022-07-14 22:17:49,779 [12] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000007F, previousRequestId: no previous request id, message: /gateway/accountStatement/9912/2021-01-01/2023-01-01 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-14 22:17:49,787 [12] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000007F, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/accountStatement/9912/2021-01-01/2023-01-01 
+ 
+2022-07-14 22:17:49,795 [12] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000007F, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-14 22:17:49,800 [12] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000007F, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-14 22:17:49,805 [12] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000007F, previousRequestId: no previous request id, message: /api/Accounts/GetAccountStatement?accountId={id}&fromDate={fdate}&toDate={tdate} route does not require user to be authorized 
+ 
+2022-07-14 22:17:49,816 [34] INFO  App  
+ requestId: 0HMJ5MH1QFDLL:0000007F, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:6001/api/Accounts/GetAccountStatement?accountId=9912&fromDate=2021-01-01&toDate=2023-01-01 
+ 

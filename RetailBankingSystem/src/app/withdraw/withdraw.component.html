@@ -1,0 +1,33 @@
+<div class="container-fluid">
+  <!---- <h3 class="d-flex justify-content-center mt-3">Retail Banking System</h3>-->
+   <h5 class="d-flex justify-content-center">Transaction - Withdraw Page</h5>
+   <div class="d-flex justify-content-center">
+     <div class="col-lg-4 col-md-6 col-sm-8">
+       <div class="container">
+         <form class="form-signin" [formGroup]="withdrawForm" (ngSubmit)="onSubmit()">
+           <div class="form-floating mt-2 form-group">
+             <input type="number" class="form-control" id="floatingInputs" placeholder="Accountid" formControlName="accountid" [ngClass]="{ 'is-invalid': submitted && f.accountid.errors }"/>
+             <label for="floatingInput">Account Id</label>
+             <div *ngIf="submitted && f.accountid.errors" class="invalid-feedback">
+               <div *ngIf="f.accountid.errors.required">Account Id is required</div>
+             </div>
+           </div>
+          
+           <div class="form-group form-floating mt-2">
+             <input type="number" class="form-control" formControlName="amount"  id="floatingAmount" placeholder="Amount" [ngClass]="{ 'is-invalid': submitted && f.amount.errors }"/>
+             <label for="floatingAmount">Amount</label>
+             <div *ngIf="submitted && f.amount.errors" class="invalid-feedback">
+               <div *ngIf="f.amount.errors.required">Amount is required</div>
+             </div>
+           </div>
+           <button [disabled]="loading"  class="w-100 btn btn-lg btn-primary mt-2" type="submit">
+             <span *ngIf="loading" class="spinner-border spinner-border-sm mr-1"></span>
+             Withdraw
+           </button>
+           <div *ngIf="error" class="alert alert-danger mt-3 mb-0">{{error}}</div>
+           <div *ngIf="message" class="alert alert-success mt-3 mb-0">{{message}}</div>
+         </form>
+       </div>
+     </div>
+   </div>
+ </div>

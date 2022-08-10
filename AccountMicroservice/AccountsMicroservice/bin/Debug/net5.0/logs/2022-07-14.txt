@@ -1,0 +1,90 @@
+2022-07-14 21:46:49,936 [1] INFO  App  
+ Now listening on: https://localhost:6001 
+ 
+2022-07-14 21:46:49,997 [1] INFO  App  
+ Now listening on: http://localhost:6000 
+ 
+2022-07-14 21:46:50,028 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-14 21:46:50,034 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-14 21:46:50,045 [1] INFO  App  
+ Content root path: C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\AccountMicroservice\AccountsMicroservice 
+ 
+2022-07-14 22:02:15,387 [18] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-14 22:02:34,942 [19] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-14 22:06:34,919 [34] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-14 22:06:57,577 [30] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-14 22:06:57,751 [37] DEBUG App  
+ withdraw() : Account Id Found. 
+ 
+2022-07-14 22:06:57,752 [37] DEBUG App  
+ withdraw(): Amount Rs.4000 Sucessfully withdrawn from Account ID : 9911 
+ 
+2022-07-14 22:06:57,753 [37] DEBUG App  
+ withdraw(): Statment list updated 
+ 
+2022-07-14 22:06:57,753 [37] DEBUG App  
+ withdraw(): Transaction list updated 
+ 
+2022-07-14 22:07:04,792 [37] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-14 22:07:04,830 [38] DEBUG App  
+ withdraw() : Account Id Found. 
+ 
+2022-07-14 22:07:04,831 [38] DEBUG App  
+ withdraw(): Amount Rs.1 Sucessfully withdrawn from Account ID : 9911 
+ 
+2022-07-14 22:07:04,831 [38] DEBUG App  
+ withdraw(): Statment list updated 
+ 
+2022-07-14 22:07:04,832 [38] DEBUG App  
+ withdraw(): Transaction list updated 
+ 
+2022-07-14 22:07:16,407 [39] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-14 22:07:16,448 [37] DEBUG App  
+ withdraw() : Account Id Found. 
+ 
+2022-07-14 22:07:16,449 [37] DEBUG App  
+ withdraw(): Amount Rs.499 Sucessfully withdrawn from Account ID : 9911 
+ 
+2022-07-14 22:07:16,449 [37] DEBUG App  
+ withdraw(): Statment list updated 
+ 
+2022-07-14 22:07:16,450 [37] DEBUG App  
+ withdraw(): Transaction list updated 
+ 
+2022-07-14 22:07:21,619 [39] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-14 22:07:32,450 [41] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-14 22:07:46,112 [37] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-14 22:07:52,387 [41] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-14 22:16:50,353 [52] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-14 22:17:49,757 [40] DEBUG App  
+ getAccountStatement(): Statements fetched successfully within mentioned time frame. 
+ 
+2022-07-14 22:17:49,810 [43] DEBUG App  
+ getAccountStatement(): Statements fetched successfully within mentioned time frame. 
+ 

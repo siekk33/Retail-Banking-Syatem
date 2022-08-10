@@ -1,0 +1,601 @@
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\CoverletSourceRootsMapping
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionMicroservice.deps.json
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionMicroservice.runtimeconfig.json
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionMicroservice.runtimeconfig.dev.json
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\log4net.config
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\appsettings.Development.json
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\appsettings.json
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionMicroservice.exe
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\testhost.exe
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\testhost.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\nunit.engine.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\nunit.engine.api.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\nunit.engine.core.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\testcentric.engine.metadata.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionTest.deps.json
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionTest.runtimeconfig.json
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionTest.runtimeconfig.dev.json
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionTest.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ref\TransactionTest.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionTest.pdb
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Castle.Core.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\log4net.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Moq.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\NuGet.Frameworks.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\nunit.framework.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionMicroservice.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionMicroservice.pdb
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.csproj.AssemblyReference.cache
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.AssemblyInfoInputs.cache
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.AssemblyInfo.cs
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.csproj.CoreCompileInputs.cache
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.csproj.CopyComplete
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\ref\TransactionTest.dll
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.pdb
+F:\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.genruntimeconfig.cache
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\log4net.config
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\appsettings.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\testhost.exe
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\testcentric.engine.metadata.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionMicroservice.deps.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionMicroservice.runtimeconfig.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionMicroservice.runtimeconfig.dev.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionMicroservice.exe
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\testhost.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionTest.deps.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionTest.runtimeconfig.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionTest.runtimeconfig.dev.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionTest.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ref\TransactionTest.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionTest.pdb
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\log4net.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Moq.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionMicroservice.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionMicroservice.pdb
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.csproj.AssemblyReference.cache
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.AssemblyInfoInputs.cache
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.AssemblyInfo.cs
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.csproj.CoreCompileInputs.cache
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.csproj.CopyComplete
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\ref\TransactionTest.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.pdb
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.genruntimeconfig.cache
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\log4net.config
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\appsettings.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\testhost.exe
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\testcentric.engine.metadata.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionMicroservice.deps.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionMicroservice.runtimeconfig.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionMicroservice.runtimeconfig.dev.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionMicroservice.exe
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\testhost.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionTest.deps.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionTest.runtimeconfig.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionTest.runtimeconfig.dev.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionTest.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ref\TransactionTest.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionTest.pdb
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\log4net.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Moq.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionMicroservice.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionMicroservice.pdb
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.csproj.AssemblyReference.cache
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.AssemblyInfoInputs.cache
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.AssemblyInfo.cs
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.csproj.CoreCompileInputs.cache
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.csproj.CopyComplete
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\ref\TransactionTest.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.pdb
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.genruntimeconfig.cache
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\CoverletSourceRootsMapping
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\log4net.config
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\appsettings.Development.json
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\appsettings.json
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\testhost.exe
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\nunit.engine.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\nunit.engine.api.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\nunit.engine.core.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\testcentric.engine.metadata.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionMicroservice.deps.json
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionMicroservice.runtimeconfig.json
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionMicroservice.runtimeconfig.dev.json
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionMicroservice.StaticWebAssets.xml
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionMicroservice.exe
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\testhost.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionTest.deps.json
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionTest.runtimeconfig.json
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionTest.runtimeconfig.dev.json
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionTest.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionTest.pdb
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Castle.Core.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\log4net.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Moq.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\NuGet.Frameworks.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\nunit.framework.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionMicroservice.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\bin\Debug\net5.0\TransactionMicroservice.pdb
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.csproj.AssemblyReference.cache
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.AssemblyInfoInputs.cache
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.AssemblyInfo.cs
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.csproj.CoreCompileInputs.cache
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.csproj.CopyComplete
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\refint\TransactionTest.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.pdb
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\TransactionTest.genruntimeconfig.cache
+F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionTest\obj\Debug\net5.0\ref\TransactionTest.dll

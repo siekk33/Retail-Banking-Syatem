@@ -1,0 +1,543 @@
+2021-11-02 00:01:51,779 [1] INFO  App  
+ Now listening on: https://localhost:4001 
+ 
+2021-11-02 00:01:51,786 [1] INFO  App  
+ Now listening on: http://localhost:4000 
+ 
+2021-11-02 00:01:51,787 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-02 00:01:51,787 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-02 00:01:51,788 [1] INFO  App  
+ Content root path: D:\Practice Questions\Main Project\MFPE FINAL\AuthenticationMicroservice\Authentication 
+ 
+2021-11-02 00:10:18,618 [8] INFO  App  
+ Authenticating User 
+ 
+2021-11-02 00:10:18,850 [8] INFO  App  
+ token Generated 
+ 
+2021-11-02 00:10:26,408 [4] INFO  App  
+ requestId: 0HMCTCS6ERSAI:0000000B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Accounts/GetCustomerAccountDetailsById?customerId={id} 
+ 
+2021-11-02 00:10:26,417 [4] INFO  App  
+ requestId: 0HMCTCS6ERSAI:0000000B, previousRequestId: no previous request id, message: /gateway/customerAccountDetails/992 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2021-11-02 00:10:26,419 [4] INFO  App  
+ requestId: 0HMCTCS6ERSAI:0000000B, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/customerAccountDetails/992 
+ 
+2021-11-02 00:10:26,429 [4] INFO  App  
+ requestId: 0HMCTCS6ERSAI:0000000B, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2021-11-02 00:10:26,431 [4] INFO  App  
+ requestId: 0HMCTCS6ERSAI:0000000B, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2021-11-02 00:10:26,433 [4] INFO  App  
+ requestId: 0HMCTCS6ERSAI:0000000B, previousRequestId: no previous request id, message: /api/Accounts/GetCustomerAccountDetailsById?customerId={id} route does not require user to be authorized 
+ 
+2021-11-02 00:10:26,897 [12] WARN  App  
+ requestId: 0HMCTCS6ERSAI:0000000B, previousRequestId: no previous request id, message: Error Code: ConnectionToDownstreamServiceError Message: Error connecting to downstream service, exception: System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+ ---> System.Security.Authentication.AuthenticationException: The remote certificate is invalid because of errors in the certificate chain: UntrustedRoot
+   at System.Net.Security.SslStream.SendAuthResetSignal(ProtocolToken message, ExceptionDispatchInfo exception)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at Ocelot.Requester.HttpClientHttpRequester.GetResponse(HttpContext httpContext) errors found in ResponderMiddleware. Setting error response for request path:/gateway/customerAccountDetails/992, request method: GET 
+ 
+2021-11-02 00:10:49,382 [4] INFO  App  
+ requestId: 0HMCTCS6ERSAI:00000017, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Customers 
+ 
+2021-11-02 00:10:49,383 [4] INFO  App  
+ requestId: 0HMCTCS6ERSAI:00000017, previousRequestId: no previous request id, message: /gateway/customers is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2021-11-02 00:10:49,384 [4] INFO  App  
+ requestId: 0HMCTCS6ERSAI:00000017, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/customers 
+ 
+2021-11-02 00:10:49,386 [4] INFO  App  
+ requestId: 0HMCTCS6ERSAI:00000017, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2021-11-02 00:10:49,388 [4] INFO  App  
+ requestId: 0HMCTCS6ERSAI:00000017, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2021-11-02 00:10:49,389 [4] INFO  App  
+ requestId: 0HMCTCS6ERSAI:00000017, previousRequestId: no previous request id, message: /api/Customers route does not require user to be authorized 
+ 
+2021-11-02 00:10:49,599 [10] WARN  App  
+ requestId: 0HMCTCS6ERSAI:00000017, previousRequestId: no previous request id, message: Error Code: ConnectionToDownstreamServiceError Message: Error connecting to downstream service, exception: System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+ ---> System.Security.Authentication.AuthenticationException: The remote certificate is invalid because of errors in the certificate chain: UntrustedRoot
+   at System.Net.Security.SslStream.SendAuthResetSignal(ProtocolToken message, ExceptionDispatchInfo exception)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at Ocelot.Requester.HttpClientHttpRequester.GetResponse(HttpContext httpContext) errors found in ResponderMiddleware. Setting error response for request path:/gateway/customers, request method: GET 
+ 
+2021-11-02 00:11:45,901 [8] INFO  App  
+ requestId: 0HMCTCS6ERSAI:0000001F, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Accounts/GetCustomerAccountDetailsById?customerId={id} 
+ 
+2021-11-02 00:11:45,904 [8] INFO  App  
+ requestId: 0HMCTCS6ERSAI:0000001F, previousRequestId: no previous request id, message: /gateway/customerAccountDetails/992 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2021-11-02 00:11:45,905 [8] INFO  App  
+ requestId: 0HMCTCS6ERSAI:0000001F, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/customerAccountDetails/992 
+ 
+2021-11-02 00:11:45,907 [8] INFO  App  
+ requestId: 0HMCTCS6ERSAI:0000001F, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2021-11-02 00:11:45,908 [8] INFO  App  
+ requestId: 0HMCTCS6ERSAI:0000001F, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2021-11-02 00:11:45,909 [8] INFO  App  
+ requestId: 0HMCTCS6ERSAI:0000001F, previousRequestId: no previous request id, message: /api/Accounts/GetCustomerAccountDetailsById?customerId={id} route does not require user to be authorized 
+ 
+2021-11-02 00:11:45,941 [21] WARN  App  
+ requestId: 0HMCTCS6ERSAI:0000001F, previousRequestId: no previous request id, message: Error Code: ConnectionToDownstreamServiceError Message: Error connecting to downstream service, exception: System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+ ---> System.Security.Authentication.AuthenticationException: The remote certificate is invalid because of errors in the certificate chain: UntrustedRoot
+   at System.Net.Security.SslStream.SendAuthResetSignal(ProtocolToken message, ExceptionDispatchInfo exception)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at Ocelot.Requester.HttpClientHttpRequester.GetResponse(HttpContext httpContext) errors found in ResponderMiddleware. Setting error response for request path:/gateway/customerAccountDetails/992, request method: GET 
+ 
+2021-11-02 00:12:42,684 [22] INFO  App  
+ requestId: 0HMCTCS6ERSAI:00000027, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Accounts/GetCustomerAccountDetailsById?customerId={id} 
+ 
+2021-11-02 00:12:42,686 [22] INFO  App  
+ requestId: 0HMCTCS6ERSAI:00000027, previousRequestId: no previous request id, message: /gateway/customerAccountDetails/992 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2021-11-02 00:12:42,692 [22] INFO  App  
+ requestId: 0HMCTCS6ERSAI:00000027, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/customerAccountDetails/992 
+ 
+2021-11-02 00:12:42,694 [22] INFO  App  
+ requestId: 0HMCTCS6ERSAI:00000027, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2021-11-02 00:12:42,695 [22] INFO  App  
+ requestId: 0HMCTCS6ERSAI:00000027, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2021-11-02 00:12:42,696 [22] INFO  App  
+ requestId: 0HMCTCS6ERSAI:00000027, previousRequestId: no previous request id, message: /api/Accounts/GetCustomerAccountDetailsById?customerId={id} route does not require user to be authorized 
+ 
+2021-11-02 00:12:42,724 [17] WARN  App  
+ requestId: 0HMCTCS6ERSAI:00000027, previousRequestId: no previous request id, message: Error Code: ConnectionToDownstreamServiceError Message: Error connecting to downstream service, exception: System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+ ---> System.Security.Authentication.AuthenticationException: The remote certificate is invalid because of errors in the certificate chain: UntrustedRoot
+   at System.Net.Security.SslStream.SendAuthResetSignal(ProtocolToken message, ExceptionDispatchInfo exception)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at Ocelot.Requester.HttpClientHttpRequester.GetResponse(HttpContext httpContext) errors found in ResponderMiddleware. Setting error response for request path:/gateway/customerAccountDetails/992, request method: GET 
+ 
+2021-11-02 00:14:29,216 [2] INFO  App  
+ Application is shutting down... 
+ 
+2021-11-02 00:19:53,447 [1] INFO  App  
+ Now listening on: https://localhost:4001 
+ 
+2021-11-02 00:19:53,488 [1] INFO  App  
+ Now listening on: http://localhost:4000 
+ 
+2021-11-02 00:19:53,507 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-02 00:19:53,531 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-02 00:19:53,539 [1] INFO  App  
+ Content root path: D:\Practice Questions\Main Project\MFPE FINAL\AuthenticationMicroservice\Authentication 
+ 
+2021-11-02 00:23:39,146 [12] INFO  App  
+ Authenticating User 
+ 
+2021-11-02 00:23:39,406 [12] INFO  App  
+ token Generated 
+ 
+2021-11-02 00:23:46,841 [16] INFO  App  
+ requestId: 0HMCTD1I66NT6:00000003, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Accounts/GetCustomerAccountDetailsById?customerId={id} 
+ 
+2021-11-02 00:23:46,872 [16] INFO  App  
+ requestId: 0HMCTD1I66NT6:00000003, previousRequestId: no previous request id, message: /gateway/customerAccountDetails/992 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2021-11-02 00:23:46,880 [16] INFO  App  
+ requestId: 0HMCTD1I66NT6:00000003, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/customerAccountDetails/992 
+ 
+2021-11-02 00:23:46,945 [16] INFO  App  
+ requestId: 0HMCTD1I66NT6:00000003, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2021-11-02 00:23:46,950 [16] INFO  App  
+ requestId: 0HMCTD1I66NT6:00000003, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2021-11-02 00:23:46,956 [16] INFO  App  
+ requestId: 0HMCTD1I66NT6:00000003, previousRequestId: no previous request id, message: /api/Accounts/GetCustomerAccountDetailsById?customerId={id} route does not require user to be authorized 
+ 
+2021-11-02 00:23:47,815 [7] WARN  App  
+ requestId: 0HMCTD1I66NT6:00000003, previousRequestId: no previous request id, message: Error Code: ConnectionToDownstreamServiceError Message: Error connecting to downstream service, exception: System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+ ---> System.Security.Authentication.AuthenticationException: The remote certificate is invalid because of errors in the certificate chain: UntrustedRoot
+   at System.Net.Security.SslStream.SendAuthResetSignal(ProtocolToken message, ExceptionDispatchInfo exception)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at Ocelot.Requester.HttpClientHttpRequester.GetResponse(HttpContext httpContext) errors found in ResponderMiddleware. Setting error response for request path:/gateway/customerAccountDetails/992, request method: GET 
+ 
+2021-11-02 00:24:49,910 [7] INFO  App  
+ Authenticating User 
+ 
+2021-11-02 00:24:49,920 [7] INFO  App  
+ token Generated 
+ 
+2021-11-02 00:25:02,504 [7] INFO  App  
+ requestId: 0HMCTD1I66NTA:00000003, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Transaction/deposit?accountId={id}&amount={amt} 
+ 
+2021-11-02 00:25:02,518 [7] INFO  App  
+ requestId: 0HMCTD1I66NTA:00000003, previousRequestId: no previous request id, message: /gateway/tDeposit/1021/1000 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2021-11-02 00:25:02,527 [7] INFO  App  
+ requestId: 0HMCTD1I66NTA:00000003, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/tDeposit/1021/1000 
+ 
+2021-11-02 00:25:02,532 [7] INFO  App  
+ requestId: 0HMCTD1I66NTA:00000003, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2021-11-02 00:25:02,536 [7] INFO  App  
+ requestId: 0HMCTD1I66NTA:00000003, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2021-11-02 00:25:02,540 [7] INFO  App  
+ requestId: 0HMCTD1I66NTA:00000003, previousRequestId: no previous request id, message: /api/Transaction/deposit?accountId={id}&amount={amt} route does not require user to be authorized 
+ 
+2021-11-02 00:25:06,590 [15] WARN  App  
+ requestId: 0HMCTD1I66NTA:00000003, previousRequestId: no previous request id, message: Error Code: ConnectionToDownstreamServiceError Message: Error connecting to downstream service, exception: System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it. (localhost:7001)
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|283_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.DefaultConnectAsync(SocketsHttpConnectionContext context, CancellationToken cancellationToken)
+   at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at Ocelot.Requester.HttpClientHttpRequester.GetResponse(HttpContext httpContext) errors found in ResponderMiddleware. Setting error response for request path:/gateway/tDeposit/1021/1000, request method: POST 
+ 
+2021-11-02 00:27:00,716 [27] INFO  App  
+ Authenticating User 
+ 
+2021-11-02 00:27:00,783 [27] INFO  App  
+ token Generated 
+ 
+2021-11-02 00:27:06,513 [12] INFO  App  
+ requestId: 0HMCTD1I66NTE:0000000F, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Accounts/GetCustomerAccountDetailsById?customerId={id} 
+ 
+2021-11-02 00:27:06,521 [12] INFO  App  
+ requestId: 0HMCTD1I66NTE:0000000F, previousRequestId: no previous request id, message: /gateway/customerAccountDetails/992 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2021-11-02 00:27:06,526 [12] INFO  App  
+ requestId: 0HMCTD1I66NTE:0000000F, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/customerAccountDetails/992 
+ 
+2021-11-02 00:27:06,534 [12] INFO  App  
+ requestId: 0HMCTD1I66NTE:0000000F, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2021-11-02 00:27:06,546 [12] INFO  App  
+ requestId: 0HMCTD1I66NTE:0000000F, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2021-11-02 00:27:06,555 [12] INFO  App  
+ requestId: 0HMCTD1I66NTE:0000000F, previousRequestId: no previous request id, message: /api/Accounts/GetCustomerAccountDetailsById?customerId={id} route does not require user to be authorized 
+ 
+2021-11-02 00:27:06,625 [21] WARN  App  
+ requestId: 0HMCTD1I66NTE:0000000F, previousRequestId: no previous request id, message: Error Code: ConnectionToDownstreamServiceError Message: Error connecting to downstream service, exception: System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+ ---> System.Security.Authentication.AuthenticationException: The remote certificate is invalid because of errors in the certificate chain: UntrustedRoot
+   at System.Net.Security.SslStream.SendAuthResetSignal(ProtocolToken message, ExceptionDispatchInfo exception)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at Ocelot.Requester.HttpClientHttpRequester.GetResponse(HttpContext httpContext) errors found in ResponderMiddleware. Setting error response for request path:/gateway/customerAccountDetails/992, request method: GET 
+ 
+2021-11-02 00:37:23,454 [21] INFO  App  
+ Authenticating User 
+ 
+2021-11-02 00:37:23,632 [21] INFO  App  
+ token Generated 
+ 
+2021-11-02 00:37:31,917 [13] INFO  App  
+ requestId: 0HMCTD1I66NTG:0000000B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Accounts/GetCustomerAccountDetailsById?customerId={id} 
+ 
+2021-11-02 00:37:31,959 [13] INFO  App  
+ requestId: 0HMCTD1I66NTG:0000000B, previousRequestId: no previous request id, message: /gateway/customerAccountDetails/992 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2021-11-02 00:37:31,982 [13] INFO  App  
+ requestId: 0HMCTD1I66NTG:0000000B, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/customerAccountDetails/992 
+ 
+2021-11-02 00:37:31,998 [13] INFO  App  
+ requestId: 0HMCTD1I66NTG:0000000B, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2021-11-02 00:37:32,055 [13] INFO  App  
+ requestId: 0HMCTD1I66NTG:0000000B, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2021-11-02 00:37:32,187 [13] INFO  App  
+ requestId: 0HMCTD1I66NTG:0000000B, previousRequestId: no previous request id, message: /api/Accounts/GetCustomerAccountDetailsById?customerId={id} route does not require user to be authorized 
+ 
+2021-11-02 00:37:32,780 [29] WARN  App  
+ requestId: 0HMCTD1I66NTG:0000000B, previousRequestId: no previous request id, message: Error Code: ConnectionToDownstreamServiceError Message: Error connecting to downstream service, exception: System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+ ---> System.Security.Authentication.AuthenticationException: The remote certificate is invalid because of errors in the certificate chain: UntrustedRoot
+   at System.Net.Security.SslStream.SendAuthResetSignal(ProtocolToken message, ExceptionDispatchInfo exception)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at Ocelot.Requester.HttpClientHttpRequester.GetResponse(HttpContext httpContext) errors found in ResponderMiddleware. Setting error response for request path:/gateway/customerAccountDetails/992, request method: GET 
+ 
+2021-11-02 00:45:33,228 [27] INFO  App  
+ Authenticating User 
+ 
+2021-11-02 00:45:33,508 [27] INFO  App  
+ token Generated 
+ 
+2021-11-02 00:45:43,275 [27] INFO  App  
+ requestId: 0HMCTD1I66NTM:00000003, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Accounts/GetCustomerAccountDetailsById?customerId={id} 
+ 
+2021-11-02 00:45:43,605 [27] INFO  App  
+ requestId: 0HMCTD1I66NTM:00000003, previousRequestId: no previous request id, message: /gateway/customerAccountDetails/101 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2021-11-02 00:45:43,671 [27] INFO  App  
+ requestId: 0HMCTD1I66NTM:00000003, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/customerAccountDetails/101 
+ 
+2021-11-02 00:45:43,764 [27] INFO  App  
+ requestId: 0HMCTD1I66NTM:00000003, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2021-11-02 00:45:43,772 [27] INFO  App  
+ requestId: 0HMCTD1I66NTM:00000003, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2021-11-02 00:45:43,804 [27] INFO  App  
+ requestId: 0HMCTD1I66NTM:00000003, previousRequestId: no previous request id, message: /api/Accounts/GetCustomerAccountDetailsById?customerId={id} route does not require user to be authorized 
+ 
+2021-11-02 00:45:44,740 [30] WARN  App  
+ requestId: 0HMCTD1I66NTM:00000003, previousRequestId: no previous request id, message: Error Code: ConnectionToDownstreamServiceError Message: Error connecting to downstream service, exception: System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+ ---> System.Security.Authentication.AuthenticationException: The remote certificate is invalid because of errors in the certificate chain: UntrustedRoot
+   at System.Net.Security.SslStream.SendAuthResetSignal(ProtocolToken message, ExceptionDispatchInfo exception)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at Ocelot.Requester.HttpClientHttpRequester.GetResponse(HttpContext httpContext) errors found in ResponderMiddleware. Setting error response for request path:/gateway/customerAccountDetails/101, request method: GET 
+ 
+2021-11-02 00:46:46,325 [11] INFO  App  
+ requestId: 0HMCTD1I66NTQ:00000003, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Accounts/GetAccountStatement?accountId={id} 
+ 
+2021-11-02 00:46:46,334 [11] INFO  App  
+ requestId: 0HMCTD1I66NTQ:00000003, previousRequestId: no previous request id, message: /gateway/accountStatement/1011 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2021-11-02 00:46:46,350 [11] INFO  App  
+ requestId: 0HMCTD1I66NTQ:00000003, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/accountStatement/1011 
+ 
+2021-11-02 00:46:46,370 [11] INFO  App  
+ requestId: 0HMCTD1I66NTQ:00000003, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2021-11-02 00:46:46,384 [11] INFO  App  
+ requestId: 0HMCTD1I66NTQ:00000003, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2021-11-02 00:46:46,398 [11] INFO  App  
+ requestId: 0HMCTD1I66NTQ:00000003, previousRequestId: no previous request id, message: /api/Accounts/GetAccountStatement?accountId={id} route does not require user to be authorized 
+ 
+2021-11-02 00:46:46,677 [8] WARN  App  
+ requestId: 0HMCTD1I66NTQ:00000003, previousRequestId: no previous request id, message: Error Code: ConnectionToDownstreamServiceError Message: Error connecting to downstream service, exception: System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+ ---> System.Security.Authentication.AuthenticationException: The remote certificate is invalid because of errors in the certificate chain: UntrustedRoot
+   at System.Net.Security.SslStream.SendAuthResetSignal(ProtocolToken message, ExceptionDispatchInfo exception)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at Ocelot.Requester.HttpClientHttpRequester.GetResponse(HttpContext httpContext) errors found in ResponderMiddleware. Setting error response for request path:/gateway/accountStatement/1011, request method: GET 
+ 
+2021-11-02 07:55:53,298 [1] INFO  App  
+ Now listening on: https://localhost:4001 
+ 
+2021-11-02 07:55:53,305 [1] INFO  App  
+ Now listening on: http://localhost:4000 
+ 
+2021-11-02 07:55:53,309 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-02 07:55:53,313 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-02 07:55:53,317 [1] INFO  App  
+ Content root path: D:\Practice Questions\Main Project\MFPE FINAL\AuthenticationMicroservice\Authentication 
+ 
+2021-11-02 08:02:57,019 [8] INFO  App  
+ Authenticating User 
+ 
+2021-11-02 08:02:57,362 [8] INFO  App  
+ token Generated 
+ 
+2021-11-02 08:03:03,389 [12] INFO  App  
+ requestId: 0HMCTL49E7Q9H:0000000B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Accounts/GetCustomerAccountDetailsById?customerId={id} 
+ 
+2021-11-02 08:03:03,404 [12] INFO  App  
+ requestId: 0HMCTL49E7Q9H:0000000B, previousRequestId: no previous request id, message: /gateway/customerAccountDetails/992 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2021-11-02 08:03:03,414 [12] INFO  App  
+ requestId: 0HMCTL49E7Q9H:0000000B, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/customerAccountDetails/992 
+ 
+2021-11-02 08:03:03,427 [12] INFO  App  
+ requestId: 0HMCTL49E7Q9H:0000000B, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2021-11-02 08:03:03,430 [12] INFO  App  
+ requestId: 0HMCTL49E7Q9H:0000000B, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2021-11-02 08:03:03,431 [12] INFO  App  
+ requestId: 0HMCTL49E7Q9H:0000000B, previousRequestId: no previous request id, message: /api/Accounts/GetCustomerAccountDetailsById?customerId={id} route does not require user to be authorized 
+ 
+2021-11-02 08:03:03,885 [4] WARN  App  
+ requestId: 0HMCTL49E7Q9H:0000000B, previousRequestId: no previous request id, message: Error Code: ConnectionToDownstreamServiceError Message: Error connecting to downstream service, exception: System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+ ---> System.Security.Authentication.AuthenticationException: The remote certificate is invalid because of errors in the certificate chain: UntrustedRoot
+   at System.Net.Security.SslStream.SendAuthResetSignal(ProtocolToken message, ExceptionDispatchInfo exception)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at Ocelot.Requester.HttpClientHttpRequester.GetResponse(HttpContext httpContext) errors found in ResponderMiddleware. Setting error response for request path:/gateway/customerAccountDetails/992, request method: GET 
+ 
+2021-11-02 08:03:38,046 [8] INFO  App  
+ requestId: 0HMCTL49E7Q9H:00000013, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Transaction/deposit?accountId={id}&amount={amt} 
+ 
+2021-11-02 08:03:38,052 [8] INFO  App  
+ requestId: 0HMCTL49E7Q9H:00000013, previousRequestId: no previous request id, message: /gateway/tDeposit/1021/500 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2021-11-02 08:03:38,058 [8] INFO  App  
+ requestId: 0HMCTL49E7Q9H:00000013, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/tDeposit/1021/500 
+ 
+2021-11-02 08:03:38,064 [8] INFO  App  
+ requestId: 0HMCTL49E7Q9H:00000013, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2021-11-02 08:03:38,065 [8] INFO  App  
+ requestId: 0HMCTL49E7Q9H:00000013, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2021-11-02 08:03:38,066 [8] INFO  App  
+ requestId: 0HMCTL49E7Q9H:00000013, previousRequestId: no previous request id, message: /api/Transaction/deposit?accountId={id}&amount={amt} route does not require user to be authorized 
+ 
+2021-11-02 08:03:38,198 [10] WARN  App  
+ requestId: 0HMCTL49E7Q9H:00000013, previousRequestId: no previous request id, message: Error Code: ConnectionToDownstreamServiceError Message: Error connecting to downstream service, exception: System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+ ---> System.Security.Authentication.AuthenticationException: The remote certificate is invalid because of errors in the certificate chain: UntrustedRoot
+   at System.Net.Security.SslStream.SendAuthResetSignal(ProtocolToken message, ExceptionDispatchInfo exception)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at Ocelot.Requester.HttpClientHttpRequester.GetResponse(HttpContext httpContext) errors found in ResponderMiddleware. Setting error response for request path:/gateway/tDeposit/1021/500, request method: POST 
+ 
+2021-11-02 08:06:58,818 [32] INFO  App  
+ Authenticating User 
+ 
+2021-11-02 08:06:58,819 [32] INFO  App  
+ token Generated 
+ 
+2021-11-02 08:07:01,003 [31] INFO  App  
+ requestId: 0HMCTL49E7Q9N:0000000B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Accounts/GetCustomerAccountDetailsById?customerId={id} 
+ 
+2021-11-02 08:07:01,010 [31] INFO  App  
+ requestId: 0HMCTL49E7Q9N:0000000B, previousRequestId: no previous request id, message: /gateway/customerAccountDetails/992 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2021-11-02 08:07:01,022 [31] INFO  App  
+ requestId: 0HMCTL49E7Q9N:0000000B, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/customerAccountDetails/992 
+ 
+2021-11-02 08:07:01,024 [31] INFO  App  
+ requestId: 0HMCTL49E7Q9N:0000000B, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2021-11-02 08:07:01,025 [31] INFO  App  
+ requestId: 0HMCTL49E7Q9N:0000000B, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2021-11-02 08:07:01,027 [31] INFO  App  
+ requestId: 0HMCTL49E7Q9N:0000000B, previousRequestId: no previous request id, message: /api/Accounts/GetCustomerAccountDetailsById?customerId={id} route does not require user to be authorized 
+ 
+2021-11-02 08:07:01,080 [17] WARN  App  
+ requestId: 0HMCTL49E7Q9N:0000000B, previousRequestId: no previous request id, message: Error Code: ConnectionToDownstreamServiceError Message: Error connecting to downstream service, exception: System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+ ---> System.Security.Authentication.AuthenticationException: The remote certificate is invalid because of errors in the certificate chain: UntrustedRoot
+   at System.Net.Security.SslStream.SendAuthResetSignal(ProtocolToken message, ExceptionDispatchInfo exception)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at Ocelot.Requester.HttpClientHttpRequester.GetResponse(HttpContext httpContext) errors found in ResponderMiddleware. Setting error response for request path:/gateway/customerAccountDetails/992, request method: GET 
+ 
+2021-11-02 08:07:37,913 [2] INFO  App  
+ Application is shutting down... 
+ 

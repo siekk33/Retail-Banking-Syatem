@@ -1,0 +1,51 @@
+2021-11-02 00:03:06,627 [1] INFO  App  
+ Now listening on: https://localhost:8001 
+ 
+2021-11-02 00:03:06,634 [1] INFO  App  
+ Now listening on: http://localhost:8000 
+ 
+2021-11-02 00:03:06,635 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-02 00:03:06,636 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-02 00:03:06,636 [1] INFO  App  
+ Content root path: D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice 
+ 
+2021-11-02 00:14:32,682 [2] INFO  App  
+ Application is shutting down... 
+ 
+2021-11-02 00:34:31,756 [1] INFO  App  
+ Now listening on: https://localhost:8001 
+ 
+2021-11-02 00:34:31,779 [1] INFO  App  
+ Now listening on: http://localhost:8000 
+ 
+2021-11-02 00:34:31,790 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-02 00:34:31,796 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-02 00:34:31,808 [1] INFO  App  
+ Content root path: D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice 
+ 
+2021-11-02 07:57:17,664 [1] INFO  App  
+ Now listening on: https://localhost:8001 
+ 
+2021-11-02 07:57:17,673 [1] INFO  App  
+ Now listening on: http://localhost:8000 
+ 
+2021-11-02 07:57:17,677 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-02 07:57:17,681 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-02 07:57:17,685 [1] INFO  App  
+ Content root path: D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleMicroservice 
+ 
+2021-11-02 08:07:41,127 [2] INFO  App  
+ Application is shutting down... 
+ 

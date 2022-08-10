@@ -1,0 +1,36 @@
+2021-10-27 12:09:53,060 [1] INFO  App  
+ Now listening on: https://localhost:5001 
+ 
+2021-10-27 12:09:53,078 [1] INFO  App  
+ Now listening on: http://localhost:5000 
+ 
+2021-10-27 12:09:53,083 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-10-27 12:09:53,092 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-10-27 12:09:53,097 [1] INFO  App  
+ Content root path: F:\MFPE FINAL\CustomerMicroservice\CustomerMicroService 
+ 
+2021-10-27 13:00:08,238 [1] INFO  App  
+ Now listening on: https://localhost:5001 
+ 
+2021-10-27 13:00:08,271 [1] INFO  App  
+ Now listening on: http://localhost:5000 
+ 
+2021-10-27 13:00:08,296 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-10-27 13:00:08,476 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-10-27 13:00:08,508 [1] INFO  App  
+ Content root path: F:\MFPE FINAL\CustomerMicroservice\CustomerMicroService 
+ 
+2021-10-27 13:13:43,085 [18] INFO  App  
+  Getting Customer details is performing 
+ 
+2021-10-27 13:13:43,195 [18] DEBUG App  
+  Getting Customer details is   performed. 
+ 

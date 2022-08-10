@@ -1,0 +1,48 @@
+2021-11-01 11:01:47,437 [1] INFO  App  
+ Now listening on: https://localhost:8001 
+ 
+2021-11-01 11:01:47,442 [1] INFO  App  
+ Now listening on: http://localhost:8000 
+ 
+2021-11-01 11:01:47,443 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-01 11:01:47,443 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-01 11:01:47,444 [1] INFO  App  
+ Content root path: D:\COGNIZANT\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice 
+ 
+2021-11-01 22:29:50,000 [1] INFO  App  
+ Now listening on: https://localhost:8001 
+ 
+2021-11-01 22:29:50,012 [1] INFO  App  
+ Now listening on: http://localhost:8000 
+ 
+2021-11-01 22:29:50,015 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-01 22:29:50,017 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-01 22:29:50,020 [1] INFO  App  
+ Content root path: C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice 
+ 
+2021-11-01 22:52:18,944 [1] INFO  App  
+ Now listening on: https://localhost:8001 
+ 
+2021-11-01 22:52:18,951 [1] INFO  App  
+ Now listening on: http://localhost:8000 
+ 
+2021-11-01 22:52:18,951 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-01 22:52:18,952 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-01 22:52:18,953 [1] INFO  App  
+ Content root path: C:\Users\Siri\Desktop\MFPE\MFPE FINAL\RuleMicroservice\RuleMicroservice 
+ 
+2021-11-01 23:35:02,990 [2] INFO  App  
+ Application is shutting down... 
+ 

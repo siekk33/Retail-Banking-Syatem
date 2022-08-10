@@ -1,0 +1,105 @@
+2022-07-20 00:19:08,377 [12] DEBUG App  
+ Entered Controller 
+ 
+2022-07-20 00:19:08,490 [12] DEBUG App  
+ Entered Services 
+ 
+2022-07-20 00:19:08,494 [12] DEBUG App  
+ Checking Available Balance in above account id1011 
+ 
+2022-07-20 00:19:08,496 [12] DEBUG App  
+ You have the adequate balance for transcation1200 
+ 
+2022-07-20 00:19:08,497 [12] INFO  App  
+ You are account1011allowed for transcation 
+ 
+2022-07-20 00:22:16,196 [25] DEBUG App  
+ Entered Controller 
+ 
+2022-07-20 00:22:16,197 [25] DEBUG App  
+ Entered Services 
+ 
+2022-07-20 00:22:16,197 [25] DEBUG App  
+ Checking Available Balance in above account id1011 
+ 
+2022-07-20 00:22:16,197 [25] DEBUG App  
+ You have the adequate balance for transcation1100 
+ 
+2022-07-20 00:22:16,502 [25] INFO  App  
+ You are account1011allowed for transcation 
+ 
+2022-07-20 00:51:50,699 [30] DEBUG App  
+ Entered Controller 
+ 
+2022-07-20 00:51:50,700 [30] DEBUG App  
+ Entered Services 
+ 
+2022-07-20 00:51:50,701 [30] DEBUG App  
+ Checking Available Balance in above account id1011 
+ 
+2022-07-20 00:51:50,702 [30] DEBUG App  
+ You have the adequate balance for transcation4600 
+ 
+2022-07-20 00:51:50,702 [30] INFO  App  
+ You are account1011allowed for transcation 
+ 
+2022-07-20 00:53:18,432 [35] DEBUG App  
+ Entered Controller 
+ 
+2022-07-20 00:53:18,432 [35] DEBUG App  
+ Entered Services 
+ 
+2022-07-20 00:53:18,433 [35] DEBUG App  
+ Checking Available Balance in above account id1011 
+ 
+2022-07-20 00:53:18,433 [35] DEBUG App  
+ You have the adequate balance for transcation4100 
+ 
+2022-07-20 00:53:18,433 [35] INFO  App  
+ You are account1011allowed for transcation 
+ 
+2022-07-20 08:04:53,021 [1] INFO  App  
+ Now listening on: https://localhost:8001 
+ 
+2022-07-20 08:04:53,078 [1] INFO  App  
+ Now listening on: http://localhost:8000 
+ 
+2022-07-20 08:04:53,089 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-20 08:04:53,116 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-20 08:04:53,132 [1] INFO  App  
+ Content root path: F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice 
+ 
+2022-07-20 08:56:38,993 [1] INFO  App  
+ Now listening on: https://localhost:8001 
+ 
+2022-07-20 08:56:39,020 [1] INFO  App  
+ Now listening on: http://localhost:8000 
+ 
+2022-07-20 08:56:39,041 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-20 08:56:39,104 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-20 08:56:39,156 [1] INFO  App  
+ Content root path: F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice 
+ 
+2022-07-20 11:40:15,686 [1] INFO  App  
+ Now listening on: https://localhost:8001 
+ 
+2022-07-20 11:40:15,755 [1] INFO  App  
+ Now listening on: http://localhost:8000 
+ 
+2022-07-20 11:40:15,769 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-20 11:40:15,780 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-20 11:40:15,783 [1] INFO  App  
+ Content root path: F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice 
+ 

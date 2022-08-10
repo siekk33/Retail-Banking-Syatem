@@ -1,0 +1,79 @@
+<div class="container-fluid">
+   <!----<h3 class="d-flex justify-content-center mt-3">Retail Banking System</h3>-->
+    <h5 class="d-flex justify-content-center">Customer Creation Page</h5>
+    <div class="d-flex justify-content-center mb-3">
+      <div class="col-lg-4 col-md-6 col-sm-8">
+        <div class="container">
+          <form class="form-signin" id="sf" [formGroup]="customerCreateForm" (ngSubmit)="onSubmit()">
+            <!-- <div class="container d-flex justify-content-center">
+              <i class="bi bi-bank2" style="font-size: 72px"></i>
+            </div> -->
+            <div class="form-floating mt-2 form-group">
+              <input type="number" class="form-control" id="floatingInput" placeholder="123" formControlName="customerid" [(ngModel)]="tempCustomerId" [ngClass]="{ 'is-invalid': submitted && f.customerid.errors }" readonly/>
+              <label for="floatingInput">Customer Id Auto Generated</label>
+              <div *ngIf="submitted && f.customerid.errors" class="invalid-feedback">
+                <div *ngIf="f.customerid.errors.required">Customer Id is required</div>
+            </div>
+            </div>
+            <div class="form-group form-floating mt-2">
+              <input type="text" class="form-control" formControlName="firstname"  id="floatingFirstname" placeholder="Firstname" [ngClass]="{ 'is-invalid': submitted && f.firstname.errors }"/>
+              <label for="floatingFirstname">Firstname</label>
+              <div *ngIf="submitted && f.firstname.errors" class="invalid-feedback">
+                <div *ngIf="f.firstname.errors.required">Firstname is required</div>
+            </div>
+            </div>
+            <div class="form-group form-floating mt-2">
+                <input type="text" class="form-control" formControlName="lastname"  id="floatingLastname" placeholder="Lastname" [ngClass]="{ 'is-invalid': submitted && f.lastname.errors }"/>
+                <label for="floatingLastname">Lastname</label>
+                <div *ngIf="submitted && f.lastname.errors" class="invalid-feedback">
+                  <div *ngIf="f.lastname.errors.required">Lastname is required</div>
+                </div>
+            </div>
+            <div class="form-group form-floating mt-2">
+                <input type="text" class="form-control" formControlName="address"  id="floatingAddress" placeholder="Address" [ngClass]="{ 'is-invalid': submitted && f.address.errors }"/>
+                <label for="floatingAddress">Address</label>
+                <div *ngIf="submitted && f.address.errors" class="invalid-feedback">
+                  <div *ngIf="f.address.errors.required">Address is required</div>
+                </div>
+            </div>
+            <div class="form-group form-floating mt-2">
+                <input type="date" class="form-control" formControlName="dateofbirth"  id="floatingDateofbirth" placeholder="Date of Birth" [ngClass]="{ 'is-invalid': submitted && f.dateofbirth.errors }"/>
+                <label for="floatingDateofbirth">Date of Birth</label>
+                <div *ngIf="submitted && f.dateofbirth.errors" class="invalid-feedback">
+                  <div *ngIf="f.dateofbirth.errors.required">Date of Birth is required</div>
+                </div>
+            </div>
+            <div class="form-group form-floating mt-2">
+                <input type="text" class="form-control" formControlName="pannumber"  id="floatingPannumber" placeholder="Pan number" [ngClass]="{ 'is-invalid': submitted && f.pannumber.errors }"/>
+                <label for="floatingPannumber">Pan Number</label>
+                <div *ngIf="submitted && f.pannumber.errors" class="invalid-feedback">
+                  <div *ngIf="f.pannumber.errors.required">Pan Number is required</div>
+                </div>
+            </div>
+            <div class="form-group form-floating mt-2">
+              <input type="text" class="form-control" formControlName="username"  id="floatingUsername" placeholder="Username" [ngClass]="{ 'is-invalid': submitted && f.username.errors }"/>
+              <label for="floatingUsername">Username</label>
+              <div *ngIf="submitted && f.username.errors" class="invalid-feedback">
+                <div *ngIf="f.username.errors.required">Username is required</div>
+              </div>
+          </div>
+            <div class="form-group form-floating mt-2">
+                <input type="password" class="form-control" formControlName="password"  id="floatingPassword" placeholder="Password" [ngClass]="{ 'is-invalid': submitted && f.password.errors }"/>
+                <label for="floatingPassword">Password</label>
+                <div *ngIf="submitted && f.password.errors" class="invalid-feedback">
+                  <div *ngIf="f.password.errors.required">Password is required</div>
+                </div>
+            </div>
+            <button [disabled]="loading" id="bt" class="w-100 btn btn-lg btn-primary mt-2" type="submit">
+              <span *ngIf="loading" class="spinner-border spinner-border-sm mr-1"></span>
+              Create Customer
+            </button>
+            <div *ngIf="info" class="alert alert-info mt-3 mb-0">{{info}}</div>
+            <div *ngIf="success" class="alert alert-success mt-3 mb-0">{{success}}</div>
+            <div *ngIf="error" class="alert alert-danger mt-3 mb-0">{{error}}</div>
+            <!--<p class="mt-5 mb-3 text-muted text-center">&copy; 2017–2021</p>-->
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>

@@ -1,0 +1,36 @@
+2022-07-11 14:52:15,712 [1] INFO  App  
+ Now listening on: https://localhost:4001 
+ 
+2022-07-11 14:52:16,015 [1] INFO  App  
+ Now listening on: http://localhost:4000 
+ 
+2022-07-11 14:52:16,127 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-11 14:52:16,798 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-11 14:52:16,934 [1] INFO  App  
+ Content root path: C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\AuthenticationMicroservice\Authentication 
+ 
+2022-07-11 14:53:02,161 [19] INFO  App  
+ requestId: 0HMJ33RCJEUN0:00000003, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Accounts/GetCustomerAccountDetailsById?customerId={id} 
+ 
+2022-07-11 14:53:02,172 [19] INFO  App  
+ requestId: 0HMJ33RCJEUN0:00000003, previousRequestId: no previous request id, message: /gateway/customerAccountDetails/992 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-11 14:53:02,178 [19] INFO  App  
+ requestId: 0HMJ33RCJEUN0:00000003, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/customerAccountDetails/992 
+ 
+2022-07-11 14:53:02,187 [19] INFO  App  
+ requestId: 0HMJ33RCJEUN0:00000003, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-11 14:53:02,193 [19] INFO  App  
+ requestId: 0HMJ33RCJEUN0:00000003, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-11 14:53:02,197 [19] INFO  App  
+ requestId: 0HMJ33RCJEUN0:00000003, previousRequestId: no previous request id, message: /api/Accounts/GetCustomerAccountDetailsById?customerId={id} route does not require user to be authorized 
+ 
+2022-07-11 14:53:03,210 [18] INFO  App  
+ requestId: 0HMJ33RCJEUN0:00000003, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=992 
+ 

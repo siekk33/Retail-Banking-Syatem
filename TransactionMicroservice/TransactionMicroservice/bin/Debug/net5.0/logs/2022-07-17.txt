@@ -1,0 +1,30 @@
+2022-07-17 01:37:28,756 [1] INFO  App  
+ Now listening on: https://localhost:7001 
+ 
+2022-07-17 01:37:28,794 [1] INFO  App  
+ Now listening on: http://localhost:7000 
+ 
+2022-07-17 01:37:28,834 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-17 01:37:28,843 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-17 01:37:28,852 [1] INFO  App  
+ Content root path: F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionMicroservice 
+ 
+2022-07-17 01:39:24,403 [13] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=992 
+ 
+2022-07-17 01:39:24,408 [13] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=992 
+ 
+2022-07-17 01:39:24,523 [20] INFO  App  
+ Received HTTP response headers after 110.3498ms - 200 
+ 
+2022-07-17 01:39:24,528 [20] INFO  App  
+ End processing HTTP request after 132.4008ms - 200 
+ 
+2022-07-17 01:39:24,942 [13] INFO  App  
+ FinancialTransaction Details 
+ 

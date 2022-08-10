@@ -1,0 +1,45 @@
+2022-07-10 17:48:54,195 [1] INFO  App  
+ Now listening on: https://localhost:5001 
+ 
+2022-07-10 17:48:54,219 [1] INFO  App  
+ Now listening on: http://localhost:5000 
+ 
+2022-07-10 17:48:54,256 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-10 17:48:54,264 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-10 17:48:54,271 [1] INFO  App  
+ Content root path: C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\CustomerMicroservice\CustomerMicroService 
+ 
+2022-07-10 17:52:27,569 [18] INFO  App  
+ Customer creation is performing 
+ 
+2022-07-10 17:52:27,734 [18] INFO  App  
+ Start processing HTTP request POST https://localhost:6001/api/Accounts/CreateAccountforCustomer?customerId=106 
+ 
+2022-07-10 17:52:27,740 [18] INFO  App  
+ Sending HTTP request POST https://localhost:6001/api/Accounts/CreateAccountforCustomer?customerId=106 
+ 
+2022-07-10 17:52:28,185 [14] INFO  App  
+ Received HTTP response headers after 435.8108ms - 200 
+ 
+2022-07-10 17:52:28,191 [14] INFO  App  
+ End processing HTTP request after 473.2723ms - 200 
+ 
+2022-07-10 17:52:28,200 [14] DEBUG App  
+  Creating Customer details is   performed. 
+ 
+2022-07-10 18:20:05,098 [29] INFO  App  
+  Getting Customer details is performing 
+ 
+2022-07-10 18:20:05,100 [29] DEBUG App  
+  Getting Customer details is   performed. 
+ 
+2022-07-10 18:36:49,070 [40] INFO  App  
+  Getting Customer details is performing 
+ 
+2022-07-10 18:36:49,075 [40] DEBUG App  
+  Getting Customer details is   performed. 
+ 

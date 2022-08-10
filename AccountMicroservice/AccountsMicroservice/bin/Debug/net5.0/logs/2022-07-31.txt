@@ -1,0 +1,48 @@
+2022-07-31 00:24:15,497 [1] INFO  App  
+ Now listening on: https://localhost:6001 
+ 
+2022-07-31 00:24:15,540 [1] INFO  App  
+ Now listening on: http://localhost:6000 
+ 
+2022-07-31 00:24:15,554 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-31 00:24:15,561 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-31 00:24:15,569 [1] INFO  App  
+ Content root path: F:\POD-4 MFPE_Project\MFPE FINAL\AccountMicroservice\AccountsMicroservice 
+ 
+2022-07-31 00:24:46,887 [13] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-31 00:25:05,294 [14] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-31 00:25:10,909 [4] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-31 00:25:34,404 [12] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-31 00:25:46,043 [5] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-31 00:25:46,066 [14] DEBUG App  
+ deposit() : Account Id Found. 
+ 
+2022-07-31 00:25:46,066 [14] DEBUG App  
+ deposit(): Amount Rs.400 Sucessfully deposited into Account ID : 1011 
+ 
+2022-07-31 00:25:46,067 [14] DEBUG App  
+ deposit(): Statment list updated 
+ 
+2022-07-31 00:25:46,067 [14] DEBUG App  
+ deposit(): Transaction list updated 
+ 
+2022-07-31 00:25:50,461 [13] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-31 00:25:56,218 [5] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 

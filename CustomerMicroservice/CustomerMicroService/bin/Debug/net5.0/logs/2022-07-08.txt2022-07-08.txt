@@ -1,0 +1,21 @@
+2022-07-08 16:15:29,001 [1] INFO  App  
+ Now listening on: https://localhost:5001 
+ 
+2022-07-08 16:15:29,944 [1] INFO  App  
+ Now listening on: http://localhost:5000 
+ 
+2022-07-08 16:15:30,077 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-08 16:15:30,271 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-08 16:15:30,677 [1] INFO  App  
+ Content root path: C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\CustomerMicroservice\CustomerMicroService 
+ 
+2022-07-08 16:22:49,511 [19] INFO  App  
+  Getting Customer details is performing 
+ 
+2022-07-08 16:22:49,514 [19] DEBUG App  
+  Getting Customer details is   performed. 
+ 

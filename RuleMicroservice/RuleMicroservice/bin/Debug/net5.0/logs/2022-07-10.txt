@@ -1,0 +1,75 @@
+2022-07-10 17:48:56,584 [1] INFO  App  
+ Now listening on: https://localhost:8001 
+ 
+2022-07-10 17:48:56,640 [1] INFO  App  
+ Now listening on: http://localhost:8000 
+ 
+2022-07-10 17:48:56,662 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-10 17:48:56,684 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-10 17:48:56,694 [1] INFO  App  
+ Content root path: C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice 
+ 
+2022-07-10 18:19:19,744 [19] DEBUG App  
+ Entered Controller 
+ 
+2022-07-10 18:19:19,748 [19] DEBUG App  
+ Entered Services 
+ 
+2022-07-10 18:19:19,755 [19] DEBUG App  
+ Checking Available Balance in above account id9922 
+ 
+2022-07-10 18:19:19,757 [19] DEBUG App  
+ You have the adequate balance for transcation6000 
+ 
+2022-07-10 18:19:19,758 [19] INFO  App  
+ You are account9922allowed for transcation 
+ 
+2022-07-10 18:20:40,804 [22] DEBUG App  
+ Entered Controller 
+ 
+2022-07-10 18:20:40,805 [22] DEBUG App  
+ Entered Services 
+ 
+2022-07-10 18:20:40,806 [22] DEBUG App  
+ Checking Available Balance in above account id9922 
+ 
+2022-07-10 18:20:40,806 [22] DEBUG App  
+ You have the adequate balance for transcation5000 
+ 
+2022-07-10 18:20:40,807 [22] INFO  App  
+ You are account9922allowed for transcation 
+ 
+2022-07-10 18:22:11,582 [28] DEBUG App  
+ Entered Controller 
+ 
+2022-07-10 18:22:11,582 [28] DEBUG App  
+ Entered Services 
+ 
+2022-07-10 18:22:11,583 [28] DEBUG App  
+ Checking Available Balance in above account id9911 
+ 
+2022-07-10 18:22:11,584 [28] DEBUG App  
+ You have the adequate balance for transcation5000 
+ 
+2022-07-10 18:22:11,585 [28] INFO  App  
+ You are account9911allowed for transcation 
+ 
+2022-07-10 18:24:09,952 [40] DEBUG App  
+ Entered Controller 
+ 
+2022-07-10 18:24:09,953 [40] DEBUG App  
+ Entered Services 
+ 
+2022-07-10 18:24:09,955 [40] DEBUG App  
+ Checking Available Balance in above account id9911 
+ 
+2022-07-10 18:24:09,959 [40] DEBUG App  
+ You have the adequate balance for transcation4000 
+ 
+2022-07-10 18:24:09,960 [40] INFO  App  
+ You are account9911allowed for transcation 
+ 

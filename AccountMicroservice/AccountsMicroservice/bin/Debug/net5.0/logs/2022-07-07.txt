@@ -1,0 +1,27 @@
+2022-07-07 18:06:58,290 [1] INFO  App  
+ Now listening on: https://localhost:6001 
+ 
+2022-07-07 18:06:58,305 [1] INFO  App  
+ Now listening on: http://localhost:6000 
+ 
+2022-07-07 18:06:58,311 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-07 18:06:58,315 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-07 18:06:58,319 [1] INFO  App  
+ Content root path: C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\AccountMicroservice\AccountsMicroservice 
+ 
+2022-07-07 18:30:04,819 [18] DEBUG App  
+ getAccountById() : Account ID not found. 
+ 
+2022-07-07 18:30:06,691 [21] DEBUG App  
+ getAccountById() : Account ID not found. 
+ 
+2022-07-07 18:31:06,027 [25] DEBUG App  
+ getAccountStatement(): Statements fetched successfully within mentioned time frame. 
+ 
+2022-07-07 18:31:06,060 [28] DEBUG App  
+ getAccountStatement(): Statements fetched successfully within mentioned time frame. 
+ 

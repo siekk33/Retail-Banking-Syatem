@@ -1,0 +1,243 @@
+2022-07-14 21:46:49,924 [1] INFO  App  
+ Now listening on: https://localhost:7001 
+ 
+2022-07-14 21:46:49,960 [1] INFO  App  
+ Now listening on: http://localhost:7000 
+ 
+2022-07-14 21:46:49,984 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-14 21:46:49,998 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-14 21:46:50,011 [1] INFO  App  
+ Content root path: C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionMicroservice 
+ 
+2022-07-14 22:06:34,787 [18] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-14 22:06:34,792 [18] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-14 22:06:34,930 [11] INFO  App  
+ Received HTTP response headers after 133.3919ms - 200 
+ 
+2022-07-14 22:06:34,933 [11] INFO  App  
+ End processing HTTP request after 152.5997ms - 200 
+ 
+2022-07-14 22:06:35,206 [18] INFO  App  
+ Status Details 
+ 
+2022-07-14 22:06:57,561 [12] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-14 22:06:57,564 [12] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-14 22:06:57,583 [23] INFO  App  
+ Received HTTP response headers after 19.12ms - 200 
+ 
+2022-07-14 22:06:57,586 [23] INFO  App  
+ End processing HTTP request after 25.4513ms - 200 
+ 
+2022-07-14 22:06:57,593 [12] INFO  App  
+ Start processing HTTP request GET https://localhost:8001/api/Rule/EvaluateMinBalance?balance=5000&AccountId=9911 
+ 
+2022-07-14 22:06:57,595 [12] INFO  App  
+ Sending HTTP request GET https://localhost:8001/api/Rule/EvaluateMinBalance?balance=5000&AccountId=9911 
+ 
+2022-07-14 22:06:57,727 [29] INFO  App  
+ Received HTTP response headers after 131.239ms - 200 
+ 
+2022-07-14 22:06:57,730 [29] INFO  App  
+ End processing HTTP request after 137.421ms - 200 
+ 
+2022-07-14 22:06:57,735 [12] INFO  App  
+ Start processing HTTP request POST https://localhost:6001/api/Accounts/WithdrawAmount?accountid=9911&amount=4000 
+ 
+2022-07-14 22:06:57,738 [12] INFO  App  
+ Sending HTTP request POST https://localhost:6001/api/Accounts/WithdrawAmount?accountid=9911&amount=4000 
+ 
+2022-07-14 22:06:57,759 [22] INFO  App  
+ Received HTTP response headers after 20.2992ms - 200 
+ 
+2022-07-14 22:06:57,762 [22] INFO  App  
+ End processing HTTP request after 27.3751ms - 200 
+ 
+2022-07-14 22:06:57,766 [22] INFO  App  
+ Status Details 
+ 
+2022-07-14 22:07:04,788 [24] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-14 22:07:04,791 [24] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-14 22:07:04,796 [22] INFO  App  
+ Received HTTP response headers after 4.482ms - 200 
+ 
+2022-07-14 22:07:04,799 [22] INFO  App  
+ End processing HTTP request after 10.4255ms - 200 
+ 
+2022-07-14 22:07:04,804 [24] INFO  App  
+ Start processing HTTP request GET https://localhost:8001/api/Rule/EvaluateMinBalance?balance=1000&AccountId=9911 
+ 
+2022-07-14 22:07:04,809 [24] INFO  App  
+ Sending HTTP request GET https://localhost:8001/api/Rule/EvaluateMinBalance?balance=1000&AccountId=9911 
+ 
+2022-07-14 22:07:04,819 [23] INFO  App  
+ Received HTTP response headers after 10.6865ms - 200 
+ 
+2022-07-14 22:07:04,823 [23] INFO  App  
+ End processing HTTP request after 19.1232ms - 200 
+ 
+2022-07-14 22:07:04,826 [24] INFO  App  
+ Start processing HTTP request POST https://localhost:6001/api/Accounts/WithdrawAmount?accountid=9911&amount=1 
+ 
+2022-07-14 22:07:04,828 [24] INFO  App  
+ Sending HTTP request POST https://localhost:6001/api/Accounts/WithdrawAmount?accountid=9911&amount=1 
+ 
+2022-07-14 22:07:04,834 [22] INFO  App  
+ Received HTTP response headers after 5.9277ms - 200 
+ 
+2022-07-14 22:07:04,839 [22] INFO  App  
+ End processing HTTP request after 11.2328ms - 200 
+ 
+2022-07-14 22:07:04,840 [22] INFO  App  
+ Status Details 
+ 
+2022-07-14 22:07:16,402 [25] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-14 22:07:16,404 [25] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-14 22:07:16,414 [22] INFO  App  
+ Received HTTP response headers after 5.0076ms - 200 
+ 
+2022-07-14 22:07:16,418 [22] INFO  App  
+ End processing HTTP request after 15.0049ms - 200 
+ 
+2022-07-14 22:07:16,421 [25] INFO  App  
+ Start processing HTTP request GET https://localhost:8001/api/Rule/EvaluateMinBalance?balance=999&AccountId=9911 
+ 
+2022-07-14 22:07:16,424 [25] INFO  App  
+ Sending HTTP request GET https://localhost:8001/api/Rule/EvaluateMinBalance?balance=999&AccountId=9911 
+ 
+2022-07-14 22:07:16,437 [23] INFO  App  
+ Received HTTP response headers after 13.1168ms - 200 
+ 
+2022-07-14 22:07:16,440 [23] INFO  App  
+ End processing HTTP request after 18.4612ms - 200 
+ 
+2022-07-14 22:07:16,443 [25] INFO  App  
+ Start processing HTTP request POST https://localhost:6001/api/Accounts/WithdrawAmount?accountid=9911&amount=499 
+ 
+2022-07-14 22:07:16,446 [25] INFO  App  
+ Sending HTTP request POST https://localhost:6001/api/Accounts/WithdrawAmount?accountid=9911&amount=499 
+ 
+2022-07-14 22:07:16,453 [22] INFO  App  
+ Received HTTP response headers after 6.3538ms - 200 
+ 
+2022-07-14 22:07:16,456 [22] INFO  App  
+ End processing HTTP request after 13.3087ms - 200 
+ 
+2022-07-14 22:07:16,457 [22] INFO  App  
+ Status Details 
+ 
+2022-07-14 22:07:21,614 [28] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-14 22:07:21,617 [28] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-14 22:07:21,624 [22] INFO  App  
+ Received HTTP response headers after 4.8111ms - 200 
+ 
+2022-07-14 22:07:21,627 [22] INFO  App  
+ End processing HTTP request after 13.1932ms - 200 
+ 
+2022-07-14 22:07:21,631 [28] INFO  App  
+ Start processing HTTP request GET https://localhost:8001/api/Rule/EvaluateMinBalance?balance=500&AccountId=9911 
+ 
+2022-07-14 22:07:21,634 [28] INFO  App  
+ Sending HTTP request GET https://localhost:8001/api/Rule/EvaluateMinBalance?balance=500&AccountId=9911 
+ 
+2022-07-14 22:07:21,644 [29] INFO  App  
+ Received HTTP response headers after 9.9752ms - 200 
+ 
+2022-07-14 22:07:21,647 [29] INFO  App  
+ End processing HTTP request after 15.9962ms - 200 
+ 
+2022-07-14 22:07:21,648 [28] INFO  App  
+ Status Details 
+ 
+2022-07-14 22:07:46,105 [12] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-14 22:07:46,107 [12] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-14 22:07:46,115 [29] INFO  App  
+ Received HTTP response headers after 7.6029ms - 200 
+ 
+2022-07-14 22:07:46,120 [29] INFO  App  
+ End processing HTTP request after 13.5264ms - 200 
+ 
+2022-07-14 22:07:46,127 [12] INFO  App  
+ Start processing HTTP request GET https://localhost:8001/api/Rule/EvaluateMinBalance?balance=500&AccountId=9911 
+ 
+2022-07-14 22:07:46,130 [12] INFO  App  
+ Sending HTTP request GET https://localhost:8001/api/Rule/EvaluateMinBalance?balance=500&AccountId=9911 
+ 
+2022-07-14 22:07:46,148 [29] INFO  App  
+ Received HTTP response headers after 18.6957ms - 200 
+ 
+2022-07-14 22:07:46,151 [29] INFO  App  
+ End processing HTTP request after 23.588ms - 200 
+ 
+2022-07-14 22:07:46,152 [12] INFO  App  
+ Status Details 
+ 
+2022-07-14 22:07:52,383 [12] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-14 22:07:52,385 [12] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-14 22:07:52,399 [29] INFO  App  
+ Received HTTP response headers after 7.8148ms - 200 
+ 
+2022-07-14 22:07:52,404 [29] INFO  App  
+ End processing HTTP request after 18.9197ms - 200 
+ 
+2022-07-14 22:07:52,407 [12] INFO  App  
+ Start processing HTTP request GET https://localhost:8001/api/Rule/EvaluateMinBalance?balance=500&AccountId=9911 
+ 
+2022-07-14 22:07:52,411 [12] INFO  App  
+ Sending HTTP request GET https://localhost:8001/api/Rule/EvaluateMinBalance?balance=500&AccountId=9911 
+ 
+2022-07-14 22:07:52,420 [31] INFO  App  
+ Received HTTP response headers after 9.9663ms - 200 
+ 
+2022-07-14 22:07:52,424 [31] INFO  App  
+ End processing HTTP request after 16.2645ms - 200 
+ 
+2022-07-14 22:07:52,425 [12] INFO  App  
+ Status Details 
+ 
+2022-07-14 22:16:50,321 [14] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=991 
+ 
+2022-07-14 22:16:50,325 [14] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=991 
+ 
+2022-07-14 22:16:50,358 [16] INFO  App  
+ Received HTTP response headers after 33.8472ms - 200 
+ 
+2022-07-14 22:16:50,361 [16] INFO  App  
+ End processing HTTP request after 40.5314ms - 200 
+ 
+2022-07-14 22:16:50,374 [14] INFO  App  
+ FinancialTransaction Details 
+ 

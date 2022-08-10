@@ -1,0 +1,30 @@
+2022-07-12 22:22:49,054 [1] INFO  App  
+ Now listening on: https://localhost:7001 
+ 
+2022-07-12 22:22:49,063 [1] INFO  App  
+ Now listening on: http://localhost:7000 
+ 
+2022-07-12 22:22:49,068 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-12 22:22:49,070 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-12 22:22:49,073 [1] INFO  App  
+ Content root path: C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionMicroservice 
+ 
+2022-07-12 22:23:29,668 [17] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=992 
+ 
+2022-07-12 22:23:29,673 [17] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=992 
+ 
+2022-07-12 22:23:29,746 [12] INFO  App  
+ Received HTTP response headers after 71.5079ms - 200 
+ 
+2022-07-12 22:23:29,749 [12] INFO  App  
+ End processing HTTP request after 87.7144ms - 200 
+ 
+2022-07-12 22:23:29,919 [17] INFO  App  
+ FinancialTransaction Details 
+ 

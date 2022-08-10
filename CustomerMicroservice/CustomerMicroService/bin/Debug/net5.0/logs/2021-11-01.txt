@@ -1,0 +1,75 @@
+2021-11-01 11:01:09,857 [1] INFO  App  
+ Now listening on: https://localhost:5001 
+ 
+2021-11-01 11:01:09,869 [1] INFO  App  
+ Now listening on: http://localhost:5000 
+ 
+2021-11-01 11:01:09,870 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-01 11:01:09,870 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-01 11:01:09,870 [1] INFO  App  
+ Content root path: D:\COGNIZANT\MFPE\MFPE FINAL\CustomerMicroservice\CustomerMicroService 
+ 
+2021-11-01 11:14:37,228 [12] INFO  App  
+  Getting Customer details is performing 
+ 
+2021-11-01 11:14:37,229 [12] DEBUG App  
+  Getting Customer details is   performed. 
+ 
+2021-11-01 11:14:41,909 [13] INFO  App  
+  Getting Customer details is performing 
+ 
+2021-11-01 11:14:41,911 [13] ERROR App  
+  Getting Customer details is  not performed 
+ 
+2021-11-01 22:30:36,113 [1] INFO  App  
+ Now listening on: https://localhost:5001 
+ 
+2021-11-01 22:30:36,122 [1] INFO  App  
+ Now listening on: http://localhost:5000 
+ 
+2021-11-01 22:30:36,124 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-01 22:30:36,126 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-01 22:30:36,128 [1] INFO  App  
+ Content root path: C:\Users\Siri\Desktop\MFPE\MFPE FINAL\CustomerMicroservice\CustomerMicroService 
+ 
+2021-11-01 22:30:46,885 [2] INFO  App  
+ Application is shutting down... 
+ 
+2021-11-01 22:32:46,048 [1] INFO  App  
+ Now listening on: https://localhost:5001 
+ 
+2021-11-01 22:32:46,058 [1] INFO  App  
+ Now listening on: http://localhost:5000 
+ 
+2021-11-01 22:32:46,063 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-01 22:32:46,066 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-01 22:32:46,068 [1] INFO  App  
+ Content root path: C:\Users\Siri\Desktop\MFPE\MFPE FINAL\CustomerMicroservice\CustomerMicroService 
+ 
+2021-11-01 22:51:57,328 [1] INFO  App  
+ Now listening on: https://localhost:5001 
+ 
+2021-11-01 22:51:57,335 [1] INFO  App  
+ Now listening on: http://localhost:5000 
+ 
+2021-11-01 22:51:57,336 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-01 22:51:57,336 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-01 22:51:57,337 [1] INFO  App  
+ Content root path: C:\Users\Siri\Desktop\MFPE\MFPE FINAL\CustomerMicroservice\CustomerMicroService 
+ 

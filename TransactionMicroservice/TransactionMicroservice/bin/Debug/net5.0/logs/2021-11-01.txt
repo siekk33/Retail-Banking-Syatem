@@ -1,0 +1,123 @@
+2021-11-01 11:02:42,799 [1] INFO  App  
+ Now listening on: https://localhost:7001 
+ 
+2021-11-01 11:02:42,805 [1] INFO  App  
+ Now listening on: http://localhost:7000 
+ 
+2021-11-01 11:02:42,806 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-01 11:02:42,806 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-01 11:02:42,807 [1] INFO  App  
+ Content root path: D:\COGNIZANT\MFPE\MFPE FINAL\TransactionMicroservice\TransactionMicroservice 
+ 
+2021-11-01 11:15:25,165 [12] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=1011 
+ 
+2021-11-01 11:15:25,166 [12] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=1011 
+ 
+2021-11-01 11:15:25,254 [11] INFO  App  
+ Received HTTP response headers after 84.4769ms - 200 
+ 
+2021-11-01 11:15:25,255 [11] INFO  App  
+ End processing HTTP request after 105.1418ms - 200 
+ 
+2021-11-01 11:15:25,474 [12] INFO  App  
+ Start processing HTTP request POST https://localhost:6001/api/Accounts/DepositAmount?accountId=1011&amount=2345678 
+ 
+2021-11-01 11:15:25,474 [12] INFO  App  
+ Sending HTTP request POST https://localhost:6001/api/Accounts/DepositAmount?accountId=1011&amount=2345678 
+ 
+2021-11-01 11:15:25,487 [11] INFO  App  
+ Received HTTP response headers after 12.508ms - 200 
+ 
+2021-11-01 11:15:25,487 [11] INFO  App  
+ End processing HTTP request after 13.5845ms - 200 
+ 
+2021-11-01 11:15:25,494 [11] INFO  App  
+ successfully Deposited the Amount 
+ 
+2021-11-01 22:28:53,426 [1] INFO  App  
+ Now listening on: https://localhost:7001 
+ 
+2021-11-01 22:28:53,436 [1] INFO  App  
+ Now listening on: http://localhost:7000 
+ 
+2021-11-01 22:28:53,438 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-01 22:28:53,440 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-01 22:28:53,442 [1] INFO  App  
+ Content root path: C:\Users\Siri\Desktop\MFPE\MFPE FINAL\TransactionMicroservice\TransactionMicroservice 
+ 
+2021-11-01 22:29:33,030 [2] INFO  App  
+ Application is shutting down... 
+ 
+2021-11-01 22:33:26,781 [1] INFO  App  
+ Now listening on: https://localhost:7001 
+ 
+2021-11-01 22:33:26,791 [1] INFO  App  
+ Now listening on: http://localhost:7000 
+ 
+2021-11-01 22:33:26,796 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-01 22:33:26,798 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-01 22:33:26,801 [1] INFO  App  
+ Content root path: C:\Users\Siri\Desktop\MFPE\MFPE FINAL\TransactionMicroservice\TransactionMicroservice 
+ 
+2021-11-01 22:46:56,950 [13] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=105 
+ 
+2021-11-01 22:46:56,955 [13] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=105 
+ 
+2021-11-01 22:46:57,135 [16] INFO  App  
+ Received HTTP response headers after 170.5706ms - 200 
+ 
+2021-11-01 22:46:57,140 [16] INFO  App  
+ End processing HTTP request after 208.9181ms - 200 
+ 
+2021-11-01 22:46:57,717 [13] INFO  App  
+ FinancialTransaction Details 
+ 
+2021-11-01 22:52:39,339 [1] INFO  App  
+ Now listening on: https://localhost:7001 
+ 
+2021-11-01 22:52:39,346 [1] INFO  App  
+ Now listening on: http://localhost:7000 
+ 
+2021-11-01 22:52:39,347 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-01 22:52:39,348 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-01 22:52:39,348 [1] INFO  App  
+ Content root path: C:\Users\Siri\Desktop\MFPE\MFPE FINAL\TransactionMicroservice\TransactionMicroservice 
+ 
+2021-11-01 22:53:14,415 [14] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=105 
+ 
+2021-11-01 22:53:14,417 [14] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=105 
+ 
+2021-11-01 22:53:14,515 [4] INFO  App  
+ Received HTTP response headers after 93.6643ms - 200 
+ 
+2021-11-01 22:53:14,516 [4] INFO  App  
+ End processing HTTP request after 109.3023ms - 200 
+ 
+2021-11-01 22:53:14,666 [14] INFO  App  
+ FinancialTransaction Details 
+ 
+2021-11-01 23:35:03,789 [2] INFO  App  
+ Application is shutting down... 
+ 

@@ -1,0 +1,48 @@
+2022-07-17 01:37:28,752 [1] INFO  App  
+ Now listening on: https://localhost:5001 
+ 
+2022-07-17 01:37:28,790 [1] INFO  App  
+ Now listening on: http://localhost:5000 
+ 
+2022-07-17 01:37:28,804 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-17 01:37:28,811 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-17 01:37:28,817 [1] INFO  App  
+ Content root path: F:\POD-4 MFPE_Project\MFPE FINAL\CustomerMicroservice\CustomerMicroService 
+ 
+2022-07-17 01:38:08,432 [13] INFO  App  
+  Getting Customer details is performing 
+ 
+2022-07-17 01:38:08,433 [13] DEBUG App  
+  Getting Customer details is   performed. 
+ 
+2022-07-17 01:38:15,699 [17] INFO  App  
+  Getting Customer details is performing 
+ 
+2022-07-17 01:38:15,700 [17] DEBUG App  
+  Getting Customer details is   performed. 
+ 
+2022-07-17 01:38:21,673 [17] INFO  App  
+  Getting Customer details is performing 
+ 
+2022-07-17 01:38:21,674 [17] DEBUG App  
+  Getting Customer details is   performed. 
+ 
+2022-07-17 01:38:53,431 [12] INFO  App  
+  Getting Customer details is performing 
+ 
+2022-07-17 01:38:53,433 [12] DEBUG App  
+  Getting Customer details is   performed. 
+ 
+2022-07-17 01:39:02,028 [12] INFO  App  
+  Getting Customer details is performing 
+ 
+2022-07-17 01:39:02,029 [12] DEBUG App  
+  Getting Customer details is   performed. 
+ 
+2022-07-17 02:23:36,769 [2] INFO  App  
+ Application is shutting down... 
+ 

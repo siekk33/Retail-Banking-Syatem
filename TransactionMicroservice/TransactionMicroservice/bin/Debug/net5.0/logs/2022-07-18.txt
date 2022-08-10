@@ -1,0 +1,15 @@
+2022-07-18 18:09:04,112 [1] INFO  App  
+ Now listening on: https://localhost:7001 
+ 
+2022-07-18 18:09:04,149 [1] INFO  App  
+ Now listening on: http://localhost:7000 
+ 
+2022-07-18 18:09:04,181 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-18 18:09:04,186 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-18 18:09:04,190 [1] INFO  App  
+ Content root path: F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionMicroservice 
+ 

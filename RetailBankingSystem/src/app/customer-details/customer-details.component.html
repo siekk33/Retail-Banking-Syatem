@@ -1,0 +1,64 @@
+<div class="container-fluid">
+    <!--<h3 class="d-flex justify-content-center mt-3">Retail Banking System</h3>-->
+    <h5 class="d-flex justify-content-center">Customer Details - Admin Page</h5>
+
+    <div class="card mt-4">
+        <h4 class="card-header">Customer List</h4>
+        <div class="card-body">
+            <div *ngIf="loading" class="spinner-border spinner-border-sm"></div>
+            <ul *ngIf="customers">
+                <li *ngFor="let customer of customers">{{customer.customerId}} - {{customer.firstName}} {{customer.lastName}}</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="card mt-4 mb-4">
+        <h4 class="card-header">Get Customer By Id</h4>
+        <div class="card-body">
+            <div *ngIf="loading" class="spinner-border spinner-border-sm"></div>
+            <form class="form-signin" [formGroup]="customerDetailsForm" (ngSubmit)="onSubmit()">
+                <div class="form-floating mt-2 form-group">
+                    <input type="number" class="form-control" id="floatingInput" placeholder="id" formControlName="customerId" [ngClass]="{ 'is-invalid': submitted && f.customerId.errors }"/>
+                    <label for="floatingInput">Customer ID</label>
+                    <div *ngIf="submitted && f.customerId.errors" class="invalid-feedback">
+                      <div *ngIf="f.customerId.errors.required">Customer ID is required</div>
+                    </div>
+                </div>
+                <button [disabled]="loading" id="bt1"  class="w-100 btn btn-lg btn-primary mt-2" type="submit">
+                    <span *ngIf="loading" class="spinner-border spinner-border-sm mr-1"></span>
+                    Get Details
+                </button>
+                <!-- <div *ngIf="error" class="alert alert-danger mt-3 mb-0">{{error}}</div> -->
+            </form>
+            <div *ngIf="dataready">
+                <div *ngIf="loading" class="spinner-border spinner-border-sm"></div>
+                <div class="table-responsive mt-4">
+                    <table class="table table-hover table-dark table-bordered" *ngIf="onecus">
+                        <tbody>
+                            <tr>
+                                <th>Id</th>
+                                <td>{{onecus.customerId}}</td>
+                            </tr>
+                            <tr>
+                                <th>Name</th>
+                                <td>{{onecus.firstName}} {{onecus.lastName}}</td>
+                            </tr>
+                            <tr>
+                                <th>Address</th>
+                                <td>{{onecus.address}}</td>
+                            </tr>
+                            <tr>
+                                <th>Pan number</th>
+                                <td>{{onecus.panNumber}}</td>
+                            </tr>
+                            <tr>
+                                <th>Date of Birth</th>
+                                <td>{{onecus.dateOfBirth}}</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

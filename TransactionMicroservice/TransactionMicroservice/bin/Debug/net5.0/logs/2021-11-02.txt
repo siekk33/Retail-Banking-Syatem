@@ -1,0 +1,51 @@
+2021-11-02 00:03:44,818 [1] INFO  App  
+ Now listening on: https://localhost:7001 
+ 
+2021-11-02 00:03:44,827 [1] INFO  App  
+ Now listening on: http://localhost:7000 
+ 
+2021-11-02 00:03:44,828 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-02 00:03:44,829 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-02 00:03:44,830 [1] INFO  App  
+ Content root path: D:\Practice Questions\Main Project\MFPE FINAL\TransactionMicroservice\TransactionMicroservice 
+ 
+2021-11-02 00:14:33,992 [2] INFO  App  
+ Application is shutting down... 
+ 
+2021-11-02 00:36:35,105 [1] INFO  App  
+ Now listening on: https://localhost:7001 
+ 
+2021-11-02 00:36:35,226 [1] INFO  App  
+ Now listening on: http://localhost:7000 
+ 
+2021-11-02 00:36:35,370 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-02 00:36:35,412 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-02 00:36:35,614 [1] INFO  App  
+ Content root path: D:\Practice Questions\Main Project\MFPE FINAL\TransactionMicroservice\TransactionMicroservice 
+ 
+2021-11-02 07:57:54,215 [1] INFO  App  
+ Now listening on: https://localhost:7001 
+ 
+2021-11-02 07:57:54,228 [1] INFO  App  
+ Now listening on: http://localhost:7000 
+ 
+2021-11-02 07:57:54,231 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-02 07:57:54,236 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-02 07:57:54,239 [1] INFO  App  
+ Content root path: D:\Practice Questions\Main Project\MFPE FINAL\TransactionMicroservice\TransactionMicroservice 
+ 
+2021-11-02 08:07:42,770 [2] INFO  App  
+ Application is shutting down... 
+ 

@@ -1,0 +1,15 @@
+#sigin-form{
+    padding-top: 315px;
+    padding-left: 61px;
+}
+input{
+    width:75%;
+}
+#button{
+    width:200px;
+    height: 35px;
+    margin-top: 5px;
+    border-radius:20px;
+    background-color:#77D970;
+    
+}

@@ -1,0 +1,15 @@
+2022-07-31 00:24:15,612 [1] INFO  App  
+ Now listening on: https://localhost:8001 
+ 
+2022-07-31 00:24:15,630 [1] INFO  App  
+ Now listening on: http://localhost:8000 
+ 
+2022-07-31 00:24:15,634 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-31 00:24:15,641 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-31 00:24:15,647 [1] INFO  App  
+ Content root path: F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice 
+ 

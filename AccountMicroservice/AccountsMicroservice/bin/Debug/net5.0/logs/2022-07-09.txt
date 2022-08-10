@@ -1,0 +1,69 @@
+2022-07-09 01:58:56,109 [1] INFO  App  
+ Now listening on: https://localhost:6001 
+ 
+2022-07-09 01:58:56,162 [1] INFO  App  
+ Now listening on: http://localhost:6000 
+ 
+2022-07-09 01:58:56,169 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-09 01:58:56,189 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-09 01:58:56,200 [1] INFO  App  
+ Content root path: C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\AccountMicroservice\AccountsMicroservice 
+ 
+2022-07-09 01:59:37,776 [11] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-09 02:00:52,359 [21] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-09 02:00:52,800 [19] DEBUG App  
+ deposit() : Account Id Found. 
+ 
+2022-07-09 02:00:52,800 [19] DEBUG App  
+ deposit(): Amount Rs.1000 Sucessfully deposited into Account ID : 9922 
+ 
+2022-07-09 02:00:52,801 [19] DEBUG App  
+ deposit(): Statment list updated 
+ 
+2022-07-09 02:00:52,801 [19] DEBUG App  
+ deposit(): Transaction list updated 
+ 
+2022-07-09 02:00:59,682 [19] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-09 02:03:03,050 [32] DEBUG App  
+ createAccount() : New Customer. Creating fresh accounts for customer ID : 106 
+ 
+2022-07-09 02:03:03,051 [32] DEBUG App  
+ createAccount() : Accounts successfully created for new customer Id : 106 -> Savings Account ID : 1061 and Current Account ID : 1062 
+ 
+2022-07-09 02:03:03,052 [32] DEBUG App  
+ createAccount(): Account Creation Status getting Updated. - New Customer. 
+ 
+2022-07-09 02:03:08,511 [26] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-09 02:03:34,073 [28] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-09 02:04:03,633 [36] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-09 02:04:03,666 [40] DEBUG App  
+ deposit() : Account Id Found. 
+ 
+2022-07-09 02:04:03,667 [40] DEBUG App  
+ deposit(): Amount Rs.10000 Sucessfully deposited into Account ID : 1061 
+ 
+2022-07-09 02:04:03,667 [40] DEBUG App  
+ deposit(): Statment list updated 
+ 
+2022-07-09 02:04:03,668 [40] DEBUG App  
+ deposit(): Transaction list updated 
+ 
+2022-07-09 02:04:07,663 [39] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 

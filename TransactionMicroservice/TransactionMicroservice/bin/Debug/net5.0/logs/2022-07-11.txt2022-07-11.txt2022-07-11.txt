@@ -1,0 +1,81 @@
+2022-07-11 22:02:12,568 [1] INFO  App  
+ Now listening on: http://localhost:7000 
+ 
+2022-07-11 22:02:12,615 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-11 22:02:12,630 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-11 22:02:12,653 [1] INFO  App  
+ Content root path: C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionMicroservice 
+ 
+2022-07-11 22:03:35,029 [19] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9921 
+ 
+2022-07-11 22:03:35,035 [19] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9921 
+ 
+2022-07-11 22:03:35,242 [6] INFO  App  
+ Received HTTP response headers after 200.0544ms - 200 
+ 
+2022-07-11 22:03:35,248 [6] INFO  App  
+ End processing HTTP request after 235.0433ms - 200 
+ 
+2022-07-11 22:03:35,668 [19] INFO  App  
+ Start processing HTTP request POST https://localhost:6001/api/Accounts/DepositAmount?accountId=9921&amount=1000 
+ 
+2022-07-11 22:03:35,673 [19] INFO  App  
+ Sending HTTP request POST https://localhost:6001/api/Accounts/DepositAmount?accountId=9921&amount=1000 
+ 
+2022-07-11 22:03:35,701 [6] INFO  App  
+ Received HTTP response headers after 27.6613ms - 200 
+ 
+2022-07-11 22:03:35,705 [6] INFO  App  
+ End processing HTTP request after 37.2808ms - 200 
+ 
+2022-07-11 22:03:35,714 [6] INFO  App  
+ successfully Deposited the Amount 
+ 
+2022-07-11 22:04:17,238 [16] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-11 22:04:17,245 [16] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-11 22:04:17,273 [6] INFO  App  
+ Received HTTP response headers after 26.7498ms - 200 
+ 
+2022-07-11 22:04:17,281 [6] INFO  App  
+ End processing HTTP request after 43.7362ms - 200 
+ 
+2022-07-11 22:04:17,299 [16] INFO  App  
+ Start processing HTTP request POST https://localhost:6001/api/Accounts/DepositAmount?accountId=9911&amount=5000 
+ 
+2022-07-11 22:04:17,305 [16] INFO  App  
+ Sending HTTP request POST https://localhost:6001/api/Accounts/DepositAmount?accountId=9911&amount=5000 
+ 
+2022-07-11 22:04:17,320 [17] INFO  App  
+ Received HTTP response headers after 15.314ms - 200 
+ 
+2022-07-11 22:04:17,326 [17] INFO  App  
+ End processing HTTP request after 28.7109ms - 200 
+ 
+2022-07-11 22:04:17,328 [17] INFO  App  
+ successfully Deposited the Amount 
+ 
+2022-07-11 22:05:17,931 [32] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=991 
+ 
+2022-07-11 22:05:17,937 [32] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=991 
+ 
+2022-07-11 22:05:17,955 [6] INFO  App  
+ Received HTTP response headers after 16.6178ms - 200 
+ 
+2022-07-11 22:05:17,960 [6] INFO  App  
+ End processing HTTP request after 29.7579ms - 200 
+ 
+2022-07-11 22:05:17,987 [32] INFO  App  
+ FinancialTransaction Details 
+ 

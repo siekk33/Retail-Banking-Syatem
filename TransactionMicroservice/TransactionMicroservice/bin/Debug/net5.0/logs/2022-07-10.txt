@@ -1,0 +1,618 @@
+2022-07-10 17:48:56,997 [1] INFO  App  
+ Now listening on: https://localhost:7001 
+ 
+2022-07-10 17:48:57,066 [1] INFO  App  
+ Now listening on: http://localhost:7000 
+ 
+2022-07-10 17:48:57,089 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-10 17:48:57,131 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-10 17:48:57,149 [1] INFO  App  
+ Content root path: C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionMicroservice 
+ 
+2022-07-10 17:50:40,233 [20] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9922 
+ 
+2022-07-10 17:50:40,239 [20] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9922 
+ 
+2022-07-10 17:50:40,469 [14] INFO  App  
+ Received HTTP response headers after 221.1727ms - 200 
+ 
+2022-07-10 17:50:40,475 [14] INFO  App  
+ End processing HTTP request after 259.389ms - 200 
+ 
+2022-07-10 17:50:40,903 [20] INFO  App  
+ Start processing HTTP request POST https://localhost:6001/api/Accounts/DepositAmount?accountId=9922&amount=1000 
+ 
+2022-07-10 17:50:40,908 [20] INFO  App  
+ Sending HTTP request POST https://localhost:6001/api/Accounts/DepositAmount?accountId=9922&amount=1000 
+ 
+2022-07-10 17:50:40,943 [14] INFO  App  
+ Received HTTP response headers after 35.2509ms - 200 
+ 
+2022-07-10 17:50:40,948 [14] INFO  App  
+ End processing HTTP request after 45.2242ms - 200 
+ 
+2022-07-10 17:50:40,957 [14] INFO  App  
+ successfully Deposited the Amount 
+ 
+2022-07-10 17:51:02,682 [28] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=992 
+ 
+2022-07-10 17:51:02,687 [28] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=992 
+ 
+2022-07-10 17:51:02,708 [17] INFO  App  
+ Received HTTP response headers after 20.2371ms - 200 
+ 
+2022-07-10 17:51:02,714 [17] INFO  App  
+ End processing HTTP request after 30.669ms - 200 
+ 
+2022-07-10 17:51:02,730 [28] INFO  App  
+ FinancialTransaction Details 
+ 
+2022-07-10 17:53:19,206 [37] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=106 
+ 
+2022-07-10 17:53:19,213 [37] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=106 
+ 
+2022-07-10 17:53:19,239 [33] INFO  App  
+ Received HTTP response headers after 27.3843ms - 200 
+ 
+2022-07-10 17:53:19,245 [33] INFO  App  
+ End processing HTTP request after 38.0539ms - 200 
+ 
+2022-07-10 17:53:19,770 [37] ERROR App  
+ An unhandled exception has occurred while executing the request. 
+ 
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Count[TSource](IEnumerable`1 source)
+   at TransactionMicroservice.Services.TransactionService.GetTransactions(Int32 customerId) in C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionMicroservice\Services\TransactionService.cs:line 186
+   at TransactionMicroservice.Controllers.TransactionController.GetTransactions(Int32 customerId) in C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionMicroservice\Controllers\TransactionController.cs:line 115
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-07-10 17:56:26,464 [55] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=991 
+ 
+2022-07-10 17:56:26,470 [55] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=991 
+ 
+2022-07-10 17:56:26,540 [17] INFO  App  
+ Received HTTP response headers after 70.6227ms - 200 
+ 
+2022-07-10 17:56:26,544 [17] INFO  App  
+ End processing HTTP request after 80.9378ms - 200 
+ 
+2022-07-10 17:56:26,546 [55] INFO  App  
+ FinancialTransaction Details 
+ 
+2022-07-10 18:16:18,464 [40] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9992 
+ 
+2022-07-10 18:16:18,469 [40] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9992 
+ 
+2022-07-10 18:16:18,505 [55] INFO  App  
+ Received HTTP response headers after 35.9536ms - 204 
+ 
+2022-07-10 18:16:18,513 [55] INFO  App  
+ End processing HTTP request after 47.5088ms - 204 
+ 
+2022-07-10 18:16:18,583 [40] INFO  App  
+ Status Details 
+ 
+2022-07-10 18:19:19,236 [52] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9922 
+ 
+2022-07-10 18:19:19,243 [52] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9922 
+ 
+2022-07-10 18:19:19,272 [48] INFO  App  
+ Received HTTP response headers after 26.9437ms - 200 
+ 
+2022-07-10 18:19:19,280 [48] INFO  App  
+ End processing HTTP request after 43.5823ms - 200 
+ 
+2022-07-10 18:19:19,303 [52] INFO  App  
+ Start processing HTTP request GET https://localhost:8001/api/Rule/EvaluateMinBalance?balance=6000&AccountId=9922 
+ 
+2022-07-10 18:19:19,310 [52] INFO  App  
+ Sending HTTP request GET https://localhost:8001/api/Rule/EvaluateMinBalance?balance=6000&AccountId=9922 
+ 
+2022-07-10 18:19:19,775 [48] INFO  App  
+ Received HTTP response headers after 464.5679ms - 200 
+ 
+2022-07-10 18:19:19,780 [48] INFO  App  
+ End processing HTTP request after 479.4221ms - 200 
+ 
+2022-07-10 18:19:19,788 [52] INFO  App  
+ Start processing HTTP request POST https://localhost:6001/api/Accounts/WithdrawAmount?accountid=9922&amount=1000 
+ 
+2022-07-10 18:19:19,793 [52] INFO  App  
+ Sending HTTP request POST https://localhost:6001/api/Accounts/WithdrawAmount?accountid=9922&amount=1000 
+ 
+2022-07-10 18:19:19,821 [42] INFO  App  
+ Received HTTP response headers after 28.5205ms - 200 
+ 
+2022-07-10 18:19:19,826 [42] INFO  App  
+ End processing HTTP request after 38.5022ms - 200 
+ 
+2022-07-10 18:19:19,829 [42] INFO  App  
+ Status Details 
+ 
+2022-07-10 18:20:40,711 [32] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9922 
+ 
+2022-07-10 18:20:40,717 [32] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9922 
+ 
+2022-07-10 18:20:40,750 [37] INFO  App  
+ Received HTTP response headers after 33.143ms - 200 
+ 
+2022-07-10 18:20:40,755 [37] INFO  App  
+ End processing HTTP request after 43.837ms - 200 
+ 
+2022-07-10 18:20:40,761 [32] INFO  App  
+ Start processing HTTP request GET https://localhost:8001/api/Rule/EvaluateMinBalance?balance=5000&AccountId=9922 
+ 
+2022-07-10 18:20:40,767 [32] INFO  App  
+ Sending HTTP request GET https://localhost:8001/api/Rule/EvaluateMinBalance?balance=5000&AccountId=9922 
+ 
+2022-07-10 18:20:40,813 [37] INFO  App  
+ Received HTTP response headers after 47.7267ms - 200 
+ 
+2022-07-10 18:20:40,819 [37] INFO  App  
+ End processing HTTP request after 58.0331ms - 200 
+ 
+2022-07-10 18:20:40,824 [32] INFO  App  
+ Start processing HTTP request POST https://localhost:6001/api/Accounts/WithdrawAmount?accountid=9922&amount=1000 
+ 
+2022-07-10 18:20:40,831 [32] INFO  App  
+ Sending HTTP request POST https://localhost:6001/api/Accounts/WithdrawAmount?accountid=9922&amount=1000 
+ 
+2022-07-10 18:20:40,849 [39] INFO  App  
+ Received HTTP response headers after 18.9381ms - 200 
+ 
+2022-07-10 18:20:40,855 [39] INFO  App  
+ End processing HTTP request after 30.224ms - 200 
+ 
+2022-07-10 18:20:40,861 [39] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=991 
+ 
+2022-07-10 18:20:40,867 [39] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=991 
+ 
+2022-07-10 18:20:40,876 [38] INFO  App  
+ Received HTTP response headers after 9.6923ms - 204 
+ 
+2022-07-10 18:20:40,882 [38] INFO  App  
+ End processing HTTP request after 20.1034ms - 204 
+ 
+2022-07-10 18:20:40,888 [39] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9922 
+ 
+2022-07-10 18:20:40,894 [39] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9922 
+ 
+2022-07-10 18:20:40,904 [48] INFO  App  
+ Received HTTP response headers after 10.8469ms - 200 
+ 
+2022-07-10 18:20:40,909 [48] INFO  App  
+ End processing HTTP request after 21.4776ms - 200 
+ 
+2022-07-10 18:20:40,942 [39] INFO  App  
+ Start processing HTTP request POST https://localhost:6001/api/Accounts/DepositAmount?accountId=9922&amount=1000 
+ 
+2022-07-10 18:20:40,947 [39] INFO  App  
+ Sending HTTP request POST https://localhost:6001/api/Accounts/DepositAmount?accountId=9922&amount=1000 
+ 
+2022-07-10 18:20:40,958 [39] INFO  App  
+ Received HTTP response headers after 10.6092ms - 200 
+ 
+2022-07-10 18:20:40,963 [39] INFO  App  
+ End processing HTTP request after 48.0875ms - 200 
+ 
+2022-07-10 18:20:40,966 [39] INFO  App  
+ Status Details 
+ 
+2022-07-10 18:22:11,401 [27] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-10 18:22:11,406 [27] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-10 18:22:11,500 [31] INFO  App  
+ Received HTTP response headers after 93.8553ms - 200 
+ 
+2022-07-10 18:22:11,507 [31] INFO  App  
+ End processing HTTP request after 104.4281ms - 200 
+ 
+2022-07-10 18:22:11,519 [27] INFO  App  
+ Start processing HTTP request GET https://localhost:8001/api/Rule/EvaluateMinBalance?balance=5000&AccountId=9911 
+ 
+2022-07-10 18:22:11,524 [27] INFO  App  
+ Sending HTTP request GET https://localhost:8001/api/Rule/EvaluateMinBalance?balance=5000&AccountId=9911 
+ 
+2022-07-10 18:22:11,597 [22] INFO  App  
+ Received HTTP response headers after 73.6062ms - 200 
+ 
+2022-07-10 18:22:11,602 [22] INFO  App  
+ End processing HTTP request after 88.616ms - 200 
+ 
+2022-07-10 18:22:11,607 [27] INFO  App  
+ Start processing HTTP request POST https://localhost:6001/api/Accounts/WithdrawAmount?accountid=9911&amount=1000 
+ 
+2022-07-10 18:22:11,613 [27] INFO  App  
+ Sending HTTP request POST https://localhost:6001/api/Accounts/WithdrawAmount?accountid=9911&amount=1000 
+ 
+2022-07-10 18:22:11,629 [31] INFO  App  
+ Received HTTP response headers after 17.0093ms - 200 
+ 
+2022-07-10 18:22:11,635 [31] INFO  App  
+ End processing HTTP request after 27.0906ms - 200 
+ 
+2022-07-10 18:22:11,641 [31] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9922 
+ 
+2022-07-10 18:22:11,646 [31] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9922 
+ 
+2022-07-10 18:22:11,656 [22] INFO  App  
+ Received HTTP response headers after 8.8681ms - 200 
+ 
+2022-07-10 18:22:11,661 [22] INFO  App  
+ End processing HTTP request after 19.9334ms - 200 
+ 
+2022-07-10 18:22:11,674 [31] INFO  App  
+ Start processing HTTP request POST https://localhost:6001/api/Accounts/DepositAmount?accountId=9922&amount=1000 
+ 
+2022-07-10 18:22:11,678 [31] INFO  App  
+ Sending HTTP request POST https://localhost:6001/api/Accounts/DepositAmount?accountId=9922&amount=1000 
+ 
+2022-07-10 18:22:11,691 [31] INFO  App  
+ Received HTTP response headers after 12.8999ms - 200 
+ 
+2022-07-10 18:22:11,696 [31] INFO  App  
+ End processing HTTP request after 28.3842ms - 200 
+ 
+2022-07-10 18:22:11,698 [31] INFO  App  
+ Status Details 
+ 
+2022-07-10 18:22:50,435 [27] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-10 18:22:50,445 [27] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-10 18:22:50,464 [16] INFO  App  
+ Received HTTP response headers after 22.0684ms - 200 
+ 
+2022-07-10 18:22:50,470 [16] INFO  App  
+ End processing HTTP request after 33.8136ms - 200 
+ 
+2022-07-10 18:22:50,472 [27] INFO  App  
+ Status Details 
+ 
+2022-07-10 18:23:03,833 [27] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-10 18:23:03,838 [27] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-10 18:23:03,850 [50] INFO  App  
+ Received HTTP response headers after 12.1069ms - 200 
+ 
+2022-07-10 18:23:03,855 [50] INFO  App  
+ End processing HTTP request after 20.5321ms - 200 
+ 
+2022-07-10 18:23:03,858 [27] INFO  App  
+ Status Details 
+ 
+2022-07-10 18:23:04,204 [49] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-10 18:23:04,213 [49] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-10 18:23:04,239 [16] INFO  App  
+ Received HTTP response headers after 27.7974ms - 200 
+ 
+2022-07-10 18:23:04,248 [16] INFO  App  
+ End processing HTTP request after 44.6599ms - 200 
+ 
+2022-07-10 18:23:04,250 [49] INFO  App  
+ Status Details 
+ 
+2022-07-10 18:23:11,771 [27] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-10 18:23:11,775 [27] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-10 18:23:11,786 [16] INFO  App  
+ Received HTTP response headers after 9.0853ms - 200 
+ 
+2022-07-10 18:23:11,791 [16] INFO  App  
+ End processing HTTP request after 19.1695ms - 200 
+ 
+2022-07-10 18:23:11,792 [27] INFO  App  
+ Status Details 
+ 
+2022-07-10 18:23:12,806 [21] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-10 18:23:12,809 [21] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-10 18:23:12,819 [50] INFO  App  
+ Received HTTP response headers after 9.2199ms - 200 
+ 
+2022-07-10 18:23:12,824 [50] INFO  App  
+ End processing HTTP request after 16.5793ms - 200 
+ 
+2022-07-10 18:23:12,825 [21] INFO  App  
+ Status Details 
+ 
+2022-07-10 18:23:13,694 [27] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-10 18:23:13,698 [27] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-10 18:23:13,704 [50] INFO  App  
+ Received HTTP response headers after 5.9961ms - 200 
+ 
+2022-07-10 18:23:13,708 [50] INFO  App  
+ End processing HTTP request after 12.8176ms - 200 
+ 
+2022-07-10 18:23:13,710 [27] INFO  App  
+ Status Details 
+ 
+2022-07-10 18:23:24,568 [27] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-10 18:23:24,572 [27] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-10 18:23:24,579 [16] INFO  App  
+ Received HTTP response headers after 7.3061ms - 200 
+ 
+2022-07-10 18:23:24,585 [16] INFO  App  
+ End processing HTTP request after 15.9765ms - 200 
+ 
+2022-07-10 18:23:24,586 [27] INFO  App  
+ Status Details 
+ 
+2022-07-10 18:23:25,622 [21] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-10 18:23:25,627 [21] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-10 18:23:25,637 [50] INFO  App  
+ Received HTTP response headers after 8.8617ms - 200 
+ 
+2022-07-10 18:23:25,643 [50] INFO  App  
+ End processing HTTP request after 20.0939ms - 200 
+ 
+2022-07-10 18:23:25,645 [21] INFO  App  
+ Status Details 
+ 
+2022-07-10 18:23:59,113 [21] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-10 18:23:59,120 [21] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-10 18:23:59,167 [57] INFO  App  
+ Received HTTP response headers after 47.0054ms - 200 
+ 
+2022-07-10 18:23:59,174 [57] INFO  App  
+ End processing HTTP request after 62.9079ms - 200 
+ 
+2022-07-10 18:23:59,180 [21] INFO  App  
+ Status Details 
+ 
+2022-07-10 18:24:09,889 [58] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-10 18:24:09,895 [58] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9911 
+ 
+2022-07-10 18:24:09,911 [57] INFO  App  
+ Received HTTP response headers after 15.8342ms - 200 
+ 
+2022-07-10 18:24:09,918 [57] INFO  App  
+ End processing HTTP request after 26.058ms - 200 
+ 
+2022-07-10 18:24:09,922 [58] INFO  App  
+ Start processing HTTP request GET https://localhost:8001/api/Rule/EvaluateMinBalance?balance=4000&AccountId=9911 
+ 
+2022-07-10 18:24:09,926 [58] INFO  App  
+ Sending HTTP request GET https://localhost:8001/api/Rule/EvaluateMinBalance?balance=4000&AccountId=9911 
+ 
+2022-07-10 18:24:09,966 [57] INFO  App  
+ Received HTTP response headers after 38.7995ms - 200 
+ 
+2022-07-10 18:24:09,970 [57] INFO  App  
+ End processing HTTP request after 48.0648ms - 200 
+ 
+2022-07-10 18:24:09,975 [58] INFO  App  
+ Start processing HTTP request POST https://localhost:6001/api/Accounts/WithdrawAmount?accountid=9911&amount=3000 
+ 
+2022-07-10 18:24:09,980 [58] INFO  App  
+ Sending HTTP request POST https://localhost:6001/api/Accounts/WithdrawAmount?accountid=9911&amount=3000 
+ 
+2022-07-10 18:24:09,992 [57] INFO  App  
+ Received HTTP response headers after 11.785ms - 200 
+ 
+2022-07-10 18:24:09,998 [57] INFO  App  
+ End processing HTTP request after 20.7235ms - 200 
+ 
+2022-07-10 18:24:10,004 [57] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9922 
+ 
+2022-07-10 18:24:10,008 [57] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=9922 
+ 
+2022-07-10 18:24:10,017 [16] INFO  App  
+ Received HTTP response headers after 7.5775ms - 200 
+ 
+2022-07-10 18:24:10,022 [16] INFO  App  
+ End processing HTTP request after 16.973ms - 200 
+ 
+2022-07-10 18:24:10,034 [57] INFO  App  
+ Start processing HTTP request POST https://localhost:6001/api/Accounts/DepositAmount?accountId=9922&amount=3000 
+ 
+2022-07-10 18:24:10,039 [57] INFO  App  
+ Sending HTTP request POST https://localhost:6001/api/Accounts/DepositAmount?accountId=9922&amount=3000 
+ 
+2022-07-10 18:24:10,050 [57] INFO  App  
+ Received HTTP response headers after 10.5663ms - 200 
+ 
+2022-07-10 18:24:10,055 [57] INFO  App  
+ End processing HTTP request after 26.3646ms - 200 
+ 
+2022-07-10 18:24:10,057 [57] INFO  App  
+ Status Details 
+ 
+2022-07-10 18:25:15,324 [64] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=992 
+ 
+2022-07-10 18:25:15,328 [64] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=992 
+ 
+2022-07-10 18:25:15,396 [61] INFO  App  
+ Received HTTP response headers after 66.8178ms - 200 
+ 
+2022-07-10 18:25:15,401 [61] INFO  App  
+ End processing HTTP request after 77.0358ms - 200 
+ 
+2022-07-10 18:25:15,403 [64] INFO  App  
+ FinancialTransaction Details 
+ 
+2022-07-10 18:26:31,685 [74] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=992 
+ 
+2022-07-10 18:26:31,695 [74] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=992 
+ 
+2022-07-10 18:26:31,721 [61] INFO  App  
+ Received HTTP response headers after 30.922ms - 200 
+ 
+2022-07-10 18:26:31,726 [61] INFO  App  
+ End processing HTTP request after 39.2444ms - 200 
+ 
+2022-07-10 18:26:31,728 [74] INFO  App  
+ FinancialTransaction Details 
+ 
+2022-07-10 18:27:01,239 [72] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=992 
+ 
+2022-07-10 18:27:01,245 [72] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=992 
+ 
+2022-07-10 18:27:01,269 [63] INFO  App  
+ Received HTTP response headers after 22.2414ms - 200 
+ 
+2022-07-10 18:27:01,274 [63] INFO  App  
+ End processing HTTP request after 33.5242ms - 200 
+ 
+2022-07-10 18:27:01,280 [72] INFO  App  
+ FinancialTransaction Details 
+ 
+2022-07-10 18:27:18,392 [71] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=992 
+ 
+2022-07-10 18:27:18,399 [71] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=992 
+ 
+2022-07-10 18:27:18,456 [63] INFO  App  
+ Received HTTP response headers after 56.9132ms - 200 
+ 
+2022-07-10 18:27:18,474 [63] INFO  App  
+ End processing HTTP request after 72.8303ms - 200 
+ 
+2022-07-10 18:27:18,476 [71] INFO  App  
+ FinancialTransaction Details 
+ 
+2022-07-10 18:31:40,287 [73] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=992 
+ 
+2022-07-10 18:31:40,293 [73] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=992 
+ 
+2022-07-10 18:31:40,317 [77] INFO  App  
+ Received HTTP response headers after 24.5385ms - 200 
+ 
+2022-07-10 18:31:40,322 [77] INFO  App  
+ End processing HTTP request after 34.5837ms - 200 
+ 
+2022-07-10 18:31:40,325 [73] INFO  App  
+ FinancialTransaction Details 
+ 
+2022-07-10 18:36:35,247 [58] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=992 
+ 
+2022-07-10 18:36:35,258 [58] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=992 
+ 
+2022-07-10 18:36:35,287 [81] INFO  App  
+ Received HTTP response headers after 32.0436ms - 200 
+ 
+2022-07-10 18:36:35,292 [81] INFO  App  
+ End processing HTTP request after 44.3601ms - 200 
+ 
+2022-07-10 18:36:35,293 [58] INFO  App  
+ FinancialTransaction Details 
+ 
+2022-07-10 18:45:37,538 [16] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=992 
+ 
+2022-07-10 18:45:37,545 [16] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=992 
+ 
+2022-07-10 18:45:37,631 [72] INFO  App  
+ Received HTTP response headers after 86.074ms - 200 
+ 
+2022-07-10 18:45:37,636 [72] INFO  App  
+ End processing HTTP request after 98.0315ms - 200 
+ 
+2022-07-10 18:45:37,638 [16] INFO  App  
+ FinancialTransaction Details 
+ 
+2022-07-10 18:45:44,647 [74] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=992 
+ 
+2022-07-10 18:45:44,653 [74] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=992 
+ 
+2022-07-10 18:45:44,684 [19] INFO  App  
+ Received HTTP response headers after 33.362ms - 200 
+ 
+2022-07-10 18:45:44,689 [19] INFO  App  
+ End processing HTTP request after 50.1617ms - 200 
+ 
+2022-07-10 18:45:44,690 [74] INFO  App  
+ FinancialTransaction Details 
+ 

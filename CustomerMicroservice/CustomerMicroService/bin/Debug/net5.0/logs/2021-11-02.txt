@@ -1,0 +1,51 @@
+2021-11-02 00:02:31,507 [1] INFO  App  
+ Now listening on: https://localhost:5001 
+ 
+2021-11-02 00:02:31,513 [1] INFO  App  
+ Now listening on: http://localhost:5000 
+ 
+2021-11-02 00:02:31,514 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-02 00:02:31,515 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-02 00:02:31,515 [1] INFO  App  
+ Content root path: D:\Practice Questions\Main Project\MFPE FINAL\CustomerMicroservice\CustomerMicroService 
+ 
+2021-11-02 00:14:31,302 [2] INFO  App  
+ Application is shutting down... 
+ 
+2021-11-02 00:32:05,634 [1] INFO  App  
+ Now listening on: https://localhost:5001 
+ 
+2021-11-02 00:32:05,679 [1] INFO  App  
+ Now listening on: http://localhost:5000 
+ 
+2021-11-02 00:32:05,688 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-02 00:32:05,700 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-02 00:32:05,706 [1] INFO  App  
+ Content root path: D:\Practice Questions\Main Project\MFPE FINAL\CustomerMicroservice\CustomerMicroService 
+ 
+2021-11-02 07:56:39,657 [1] INFO  App  
+ Now listening on: https://localhost:5001 
+ 
+2021-11-02 07:56:39,668 [1] INFO  App  
+ Now listening on: http://localhost:5000 
+ 
+2021-11-02 07:56:39,677 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-02 07:56:39,682 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-02 07:56:39,686 [1] INFO  App  
+ Content root path: D:\Practice Questions\Main Project\MFPE FINAL\CustomerMicroservice\CustomerMicroService 
+ 
+2021-11-02 08:07:39,498 [2] INFO  App  
+ Application is shutting down... 
+ 

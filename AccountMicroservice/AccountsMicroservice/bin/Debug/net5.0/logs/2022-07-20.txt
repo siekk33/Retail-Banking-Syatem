@@ -1,0 +1,273 @@
+2022-07-20 00:14:06,652 [16] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-20 00:14:20,752 [12] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-20 00:17:02,826 [4] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-20 00:17:35,747 [22] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-20 00:18:03,550 [22] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-20 00:18:03,570 [22] DEBUG App  
+ deposit() : Account Id Found. 
+ 
+2022-07-20 00:18:03,570 [22] DEBUG App  
+ deposit(): Amount Rs.200 Sucessfully deposited into Account ID : 1011 
+ 
+2022-07-20 00:18:03,585 [22] DEBUG App  
+ deposit(): Statment list updated 
+ 
+2022-07-20 00:18:03,585 [22] DEBUG App  
+ deposit(): Transaction list updated 
+ 
+2022-07-20 00:18:09,887 [24] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-20 00:18:17,328 [22] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-20 00:19:00,777 [10] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-20 00:19:08,273 [25] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-20 00:19:08,549 [24] DEBUG App  
+ withdraw() : Account Id Found. 
+ 
+2022-07-20 00:19:08,550 [24] DEBUG App  
+ withdraw(): Amount Rs.100 Sucessfully withdrawn from Account ID : 1011 
+ 
+2022-07-20 00:19:08,550 [24] DEBUG App  
+ withdraw(): Statment list updated 
+ 
+2022-07-20 00:19:08,551 [24] DEBUG App  
+ withdraw(): Transaction list updated 
+ 
+2022-07-20 00:19:38,452 [24] DEBUG App  
+ getAccountStatement() : No statements found within mentioned Time Frame 
+ 
+2022-07-20 00:19:38,482 [22] DEBUG App  
+ getAccountStatement() : No statements found within mentioned Time Frame 
+ 
+2022-07-20 00:19:46,927 [24] DEBUG App  
+ getAccountStatement() : No statements found within mentioned Time Frame 
+ 
+2022-07-20 00:19:46,962 [24] DEBUG App  
+ getAccountStatement() : No statements found within mentioned Time Frame 
+ 
+2022-07-20 00:19:48,081 [22] DEBUG App  
+ getAccountStatement() : No statements found within mentioned Time Frame 
+ 
+2022-07-20 00:19:48,109 [21] DEBUG App  
+ getAccountStatement() : No statements found within mentioned Time Frame 
+ 
+2022-07-20 00:21:04,193 [25] DEBUG App  
+ getAccountStatement() : No statements found within mentioned Time Frame 
+ 
+2022-07-20 00:21:04,231 [25] DEBUG App  
+ getAccountStatement() : No statements found within mentioned Time Frame 
+ 
+2022-07-20 00:22:16,175 [30] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-20 00:22:16,515 [4] DEBUG App  
+ withdraw() : Account Id Found. 
+ 
+2022-07-20 00:22:16,515 [4] DEBUG App  
+ withdraw(): Amount Rs.500 Sucessfully withdrawn from Account ID : 1011 
+ 
+2022-07-20 00:22:16,516 [4] DEBUG App  
+ withdraw(): Statment list updated 
+ 
+2022-07-20 00:22:16,516 [4] DEBUG App  
+ withdraw(): Transaction list updated 
+ 
+2022-07-20 00:22:16,528 [4] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-20 00:22:16,543 [30] DEBUG App  
+ deposit() : Account Id Found. 
+ 
+2022-07-20 00:22:16,543 [30] DEBUG App  
+ deposit(): Amount Rs.500 Sucessfully deposited into Account ID : 1012 
+ 
+2022-07-20 00:22:16,543 [30] DEBUG App  
+ deposit(): Statment list updated 
+ 
+2022-07-20 00:22:16,543 [30] DEBUG App  
+ deposit(): Transaction list updated 
+ 
+2022-07-20 00:22:26,838 [12] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-20 00:22:34,497 [24] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-20 00:22:55,443 [29] DEBUG App  
+ getAccountStatement(): Statements fetched successfully within mentioned time frame. 
+ 
+2022-07-20 00:22:55,480 [29] DEBUG App  
+ getAccountStatement(): Statements fetched successfully within mentioned time frame. 
+ 
+2022-07-20 00:23:13,131 [31] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-20 00:23:27,749 [30] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-20 00:43:39,457 [4] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-20 00:43:39,476 [38] DEBUG App  
+ deposit() : Account Id Found. 
+ 
+2022-07-20 00:43:39,476 [38] DEBUG App  
+ deposit(): Amount Rs.2000 Sucessfully deposited into Account ID : 1011 
+ 
+2022-07-20 00:43:39,476 [38] DEBUG App  
+ deposit(): Statment list updated 
+ 
+2022-07-20 00:43:39,476 [38] DEBUG App  
+ deposit(): Transaction list updated 
+ 
+2022-07-20 00:50:02,320 [36] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-20 00:50:02,334 [36] DEBUG App  
+ deposit() : Account Id Found. 
+ 
+2022-07-20 00:50:02,334 [36] DEBUG App  
+ deposit(): Amount Rs.1000 Sucessfully deposited into Account ID : 1011 
+ 
+2022-07-20 00:50:02,335 [36] DEBUG App  
+ deposit(): Statment list updated 
+ 
+2022-07-20 00:50:02,335 [36] DEBUG App  
+ deposit(): Transaction list updated 
+ 
+2022-07-20 00:50:18,189 [43] DEBUG App  
+ getAccountById() : Account ID not found. 
+ 
+2022-07-20 00:50:39,041 [42] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-20 00:50:39,061 [43] DEBUG App  
+ deposit() : Account Id Found. 
+ 
+2022-07-20 00:50:39,061 [43] DEBUG App  
+ deposit(): Amount Rs.1000 Sucessfully deposited into Account ID : 1011 
+ 
+2022-07-20 00:50:39,062 [43] DEBUG App  
+ deposit(): Statment list updated 
+ 
+2022-07-20 00:50:39,062 [43] DEBUG App  
+ deposit(): Transaction list updated 
+ 
+2022-07-20 00:51:50,613 [43] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-20 00:51:50,724 [43] DEBUG App  
+ withdraw() : Account Id Found. 
+ 
+2022-07-20 00:51:50,724 [43] DEBUG App  
+ withdraw(): Amount Rs.500 Sucessfully withdrawn from Account ID : 1011 
+ 
+2022-07-20 00:51:50,724 [43] DEBUG App  
+ withdraw(): Statment list updated 
+ 
+2022-07-20 00:51:50,725 [43] DEBUG App  
+ withdraw(): Transaction list updated 
+ 
+2022-07-20 00:53:18,379 [50] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-20 00:53:18,448 [45] DEBUG App  
+ withdraw() : Account Id Found. 
+ 
+2022-07-20 00:53:18,449 [45] DEBUG App  
+ withdraw(): Amount Rs.700 Sucessfully withdrawn from Account ID : 1011 
+ 
+2022-07-20 00:53:18,449 [45] DEBUG App  
+ withdraw(): Statment list updated 
+ 
+2022-07-20 00:53:18,449 [45] DEBUG App  
+ withdraw(): Transaction list updated 
+ 
+2022-07-20 00:53:18,465 [49] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-20 00:53:18,482 [45] DEBUG App  
+ deposit() : Account Id Found. 
+ 
+2022-07-20 00:53:18,483 [45] DEBUG App  
+ deposit(): Amount Rs.700 Sucessfully deposited into Account ID : 1012 
+ 
+2022-07-20 00:53:18,483 [45] DEBUG App  
+ deposit(): Statment list updated 
+ 
+2022-07-20 00:53:18,483 [45] DEBUG App  
+ deposit(): Transaction list updated 
+ 
+2022-07-20 00:54:43,406 [50] DEBUG App  
+ getAccountStatement(): Statements fetched successfully within mentioned time frame. 
+ 
+2022-07-20 00:54:43,439 [52] DEBUG App  
+ getAccountStatement(): Statements fetched successfully within mentioned time frame. 
+ 
+2022-07-20 00:56:08,872 [53] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-20 08:04:52,997 [1] INFO  App  
+ Now listening on: https://localhost:6001 
+ 
+2022-07-20 08:04:53,062 [1] INFO  App  
+ Now listening on: http://localhost:6000 
+ 
+2022-07-20 08:04:53,088 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-20 08:04:53,100 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-20 08:04:53,116 [1] INFO  App  
+ Content root path: F:\POD-4 MFPE_Project\MFPE FINAL\AccountMicroservice\AccountsMicroservice 
+ 
+2022-07-20 08:56:44,227 [1] INFO  App  
+ Now listening on: https://localhost:6001 
+ 
+2022-07-20 08:56:44,239 [1] INFO  App  
+ Now listening on: http://localhost:6000 
+ 
+2022-07-20 08:56:44,268 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-20 08:56:44,270 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-20 08:56:44,273 [1] INFO  App  
+ Content root path: F:\POD-4 MFPE_Project\MFPE FINAL\AccountMicroservice\AccountsMicroservice 
+ 
+2022-07-20 08:57:34,511 [5] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-20 11:40:15,681 [1] INFO  App  
+ Now listening on: https://localhost:6001 
+ 
+2022-07-20 11:40:15,751 [1] INFO  App  
+ Now listening on: http://localhost:6000 
+ 
+2022-07-20 11:40:15,782 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-20 11:40:15,793 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-20 11:40:15,808 [1] INFO  App  
+ Content root path: F:\POD-4 MFPE_Project\MFPE FINAL\AccountMicroservice\AccountsMicroservice 
+ 

@@ -1,0 +1,252 @@
+2022-07-10 17:48:57,660 [1] INFO  App  
+ Now listening on: https://localhost:6001 
+ 
+2022-07-10 17:48:57,695 [1] INFO  App  
+ Now listening on: http://localhost:6000 
+ 
+2022-07-10 17:48:57,701 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-10 17:48:57,711 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-10 17:48:57,735 [1] INFO  App  
+ Content root path: C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\AccountMicroservice\AccountsMicroservice 
+ 
+2022-07-10 17:49:28,422 [15] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-10 17:50:40,443 [22] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-10 17:50:40,932 [21] DEBUG App  
+ deposit() : Account Id Found. 
+ 
+2022-07-10 17:50:40,933 [21] DEBUG App  
+ deposit(): Amount Rs.1000 Sucessfully deposited into Account ID : 9922 
+ 
+2022-07-10 17:50:40,934 [21] DEBUG App  
+ deposit(): Statment list updated 
+ 
+2022-07-10 17:50:40,935 [21] DEBUG App  
+ deposit(): Transaction list updated 
+ 
+2022-07-10 17:50:47,248 [21] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-10 17:51:02,691 [21] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-10 17:52:28,154 [31] DEBUG App  
+ createAccount() : New Customer. Creating fresh accounts for customer ID : 106 
+ 
+2022-07-10 17:52:28,156 [31] DEBUG App  
+ createAccount() : Accounts successfully created for new customer Id : 106 -> Savings Account ID : 1061 and Current Account ID : 1062 
+ 
+2022-07-10 17:52:28,156 [31] DEBUG App  
+ createAccount(): Account Creation Status getting Updated. - New Customer. 
+ 
+2022-07-10 17:53:06,841 [31] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-10 17:53:19,234 [38] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-10 17:56:26,533 [61] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-10 18:13:57,020 [59] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-10 18:16:03,576 [51] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-10 18:16:18,496 [54] DEBUG App  
+ getAccountById() : Account ID not found. 
+ 
+2022-07-10 18:19:04,683 [39] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-10 18:19:19,263 [42] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-10 18:19:19,813 [40] DEBUG App  
+ withdraw() : Account Id Found. 
+ 
+2022-07-10 18:19:19,814 [40] DEBUG App  
+ withdraw(): Amount Rs.1000 Sucessfully withdrawn from Account ID : 9922 
+ 
+2022-07-10 18:19:19,814 [40] DEBUG App  
+ withdraw(): Statment list updated 
+ 
+2022-07-10 18:19:19,815 [40] DEBUG App  
+ withdraw(): Transaction list updated 
+ 
+2022-07-10 18:19:32,885 [25] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-10 18:20:40,744 [35] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-10 18:20:40,840 [33] DEBUG App  
+ withdraw() : Account Id Found. 
+ 
+2022-07-10 18:20:40,841 [33] DEBUG App  
+ withdraw(): Amount Rs.1000 Sucessfully withdrawn from Account ID : 9922 
+ 
+2022-07-10 18:20:40,841 [33] DEBUG App  
+ withdraw(): Statment list updated 
+ 
+2022-07-10 18:20:40,842 [33] DEBUG App  
+ withdraw(): Transaction list updated 
+ 
+2022-07-10 18:20:40,870 [34] DEBUG App  
+ getAccountById() : Account ID not found. 
+ 
+2022-07-10 18:20:40,898 [34] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-10 18:20:40,950 [35] DEBUG App  
+ deposit() : Account Id Found. 
+ 
+2022-07-10 18:20:40,951 [35] DEBUG App  
+ deposit(): Amount Rs.1000 Sucessfully deposited into Account ID : 9922 
+ 
+2022-07-10 18:20:40,952 [35] DEBUG App  
+ deposit(): Statment list updated 
+ 
+2022-07-10 18:20:40,952 [35] DEBUG App  
+ deposit(): Transaction list updated 
+ 
+2022-07-10 18:21:10,685 [52] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-10 18:22:11,495 [20] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-10 18:22:11,622 [20] DEBUG App  
+ withdraw() : Account Id Found. 
+ 
+2022-07-10 18:22:11,623 [20] DEBUG App  
+ withdraw(): Amount Rs.1000 Sucessfully withdrawn from Account ID : 9911 
+ 
+2022-07-10 18:22:11,623 [20] DEBUG App  
+ withdraw(): Statment list updated 
+ 
+2022-07-10 18:22:11,624 [20] DEBUG App  
+ withdraw(): Transaction list updated 
+ 
+2022-07-10 18:22:11,649 [20] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-10 18:22:11,681 [22] DEBUG App  
+ deposit() : Account Id Found. 
+ 
+2022-07-10 18:22:11,683 [22] DEBUG App  
+ deposit(): Amount Rs.1000 Sucessfully deposited into Account ID : 9922 
+ 
+2022-07-10 18:22:11,685 [22] DEBUG App  
+ deposit(): Statment list updated 
+ 
+2022-07-10 18:22:11,686 [22] DEBUG App  
+ deposit(): Transaction list updated 
+ 
+2022-07-10 18:22:21,109 [20] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-10 18:22:50,456 [19] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-10 18:23:03,844 [11] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-10 18:23:04,231 [19] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-10 18:23:11,778 [13] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-10 18:23:12,813 [24] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-10 18:23:13,700 [13] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-10 18:23:24,575 [14] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-10 18:23:25,630 [13] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-10 18:23:29,398 [13] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-10 18:23:59,145 [6] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-10 18:24:09,905 [4] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-10 18:24:09,984 [6] DEBUG App  
+ withdraw() : Account Id Found. 
+ 
+2022-07-10 18:24:09,985 [6] DEBUG App  
+ withdraw(): Amount Rs.3000 Sucessfully withdrawn from Account ID : 9911 
+ 
+2022-07-10 18:24:09,986 [6] DEBUG App  
+ withdraw(): Statment list updated 
+ 
+2022-07-10 18:24:09,987 [6] DEBUG App  
+ withdraw(): Transaction list updated 
+ 
+2022-07-10 18:24:10,010 [5] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-10 18:24:10,042 [5] DEBUG App  
+ deposit() : Account Id Found. 
+ 
+2022-07-10 18:24:10,043 [5] DEBUG App  
+ deposit(): Amount Rs.3000 Sucessfully deposited into Account ID : 9922 
+ 
+2022-07-10 18:24:10,044 [5] DEBUG App  
+ deposit(): Statment list updated 
+ 
+2022-07-10 18:24:10,045 [5] DEBUG App  
+ deposit(): Transaction list updated 
+ 
+2022-07-10 18:24:14,925 [6] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-10 18:24:29,547 [60] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-10 18:25:15,391 [67] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-10 18:26:31,704 [75] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-10 18:27:01,256 [85] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-10 18:27:18,447 [84] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-10 18:31:25,106 [92] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-10 18:31:40,311 [89] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-10 18:36:23,750 [75] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-10 18:36:35,280 [72] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-10 18:45:37,622 [89] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-10 18:45:44,660 [82] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 

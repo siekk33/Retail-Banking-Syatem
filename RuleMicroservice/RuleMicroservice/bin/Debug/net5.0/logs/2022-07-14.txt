@@ -1,0 +1,105 @@
+2022-07-14 21:46:49,949 [1] INFO  App  
+ Now listening on: https://localhost:8001 
+ 
+2022-07-14 21:46:49,990 [1] INFO  App  
+ Now listening on: http://localhost:8000 
+ 
+2022-07-14 21:46:50,008 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-14 21:46:50,046 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-14 21:46:50,060 [1] INFO  App  
+ Content root path: C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice 
+ 
+2022-07-14 22:06:57,713 [18] DEBUG App  
+ Entered Controller 
+ 
+2022-07-14 22:06:57,717 [18] DEBUG App  
+ Entered Services 
+ 
+2022-07-14 22:06:57,719 [18] DEBUG App  
+ Checking Available Balance in above account id9911 
+ 
+2022-07-14 22:06:57,720 [18] DEBUG App  
+ You have the adequate balance for transcation5000 
+ 
+2022-07-14 22:06:57,720 [18] INFO  App  
+ You are account9911allowed for transcation 
+ 
+2022-07-14 22:07:04,813 [21] DEBUG App  
+ Entered Controller 
+ 
+2022-07-14 22:07:04,814 [21] DEBUG App  
+ Entered Services 
+ 
+2022-07-14 22:07:04,815 [21] DEBUG App  
+ Checking Available Balance in above account id9911 
+ 
+2022-07-14 22:07:04,815 [21] DEBUG App  
+ You have the adequate balance for transcation1000 
+ 
+2022-07-14 22:07:04,815 [21] INFO  App  
+ You are account9911allowed for transcation 
+ 
+2022-07-14 22:07:16,429 [23] DEBUG App  
+ Entered Controller 
+ 
+2022-07-14 22:07:16,429 [23] DEBUG App  
+ Entered Services 
+ 
+2022-07-14 22:07:16,433 [23] DEBUG App  
+ Checking Available Balance in above account id9911 
+ 
+2022-07-14 22:07:16,434 [23] DEBUG App  
+ You have the adequate balance for transcation999 
+ 
+2022-07-14 22:07:16,434 [23] INFO  App  
+ You are account9911allowed for transcation 
+ 
+2022-07-14 22:07:21,635 [21] DEBUG App  
+ Entered Controller 
+ 
+2022-07-14 22:07:21,636 [21] DEBUG App  
+ Entered Services 
+ 
+2022-07-14 22:07:21,636 [21] DEBUG App  
+ Checking Available Balance in above account id9911 
+ 
+2022-07-14 22:07:21,637 [21] ERROR App  
+ You dont have the mininum balance for the transaction500 
+ 
+2022-07-14 22:07:21,638 [21] INFO  App  
+ Account9911is denied 
+ 
+2022-07-14 22:07:46,141 [20] DEBUG App  
+ Entered Controller 
+ 
+2022-07-14 22:07:46,141 [20] DEBUG App  
+ Entered Services 
+ 
+2022-07-14 22:07:46,142 [20] DEBUG App  
+ Checking Available Balance in above account id9911 
+ 
+2022-07-14 22:07:46,145 [20] ERROR App  
+ You dont have the mininum balance for the transaction500 
+ 
+2022-07-14 22:07:46,145 [20] INFO  App  
+ Account9911is denied 
+ 
+2022-07-14 22:07:52,415 [25] DEBUG App  
+ Entered Controller 
+ 
+2022-07-14 22:07:52,416 [25] DEBUG App  
+ Entered Services 
+ 
+2022-07-14 22:07:52,416 [25] DEBUG App  
+ Checking Available Balance in above account id9911 
+ 
+2022-07-14 22:07:52,416 [25] ERROR App  
+ You dont have the mininum balance for the transaction500 
+ 
+2022-07-14 22:07:52,417 [25] INFO  App  
+ Account9911is denied 
+ 

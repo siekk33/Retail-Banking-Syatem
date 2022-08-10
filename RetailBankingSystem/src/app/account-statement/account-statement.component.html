@@ -1,0 +1,63 @@
+<div class="container-fluid">
+    <!--<h3 class="d-flex justify-content-center mt-3">Retail Banking System</h3>-->
+    <h5 class="d-flex justify-content-center">Account Statement - User Page</h5>
+
+    <div class="card mt-4">
+        <h4 class="card-header">Account Statement</h4>
+        <div class="card-body">
+            <h4 class="card-header">Enter Date</h4>
+            <form class="form-signin" [formGroup]="statementForm" (ngSubmit)="onSubmit()">
+                <div class="form-floating mt-2 form-group">
+                    <input type="date" class="form-control" id="floatingFromdate" placeholder="yyyy-mm-dd" formControlName="fromdate" />
+                    <!-- [ngClass]="{ 'is-invalid': submitted && f.fromdate.errors }" -->
+                    <label for="floatingFromdate">From Date</label>
+                    <!-- <div *ngIf="submitted && f.fromdate.errors" class="invalid-feedback">
+                      <div *ngIf="f.fromdate.errors.required">From Date is required</div>
+                    </div> -->
+                </div>
+                <div class="form-floating mt-2 form-group">
+                    <input type="date" class="form-control" id="floatingTodate" placeholder="yyyy-mm-dd" formControlName="todate" /> 
+                    <!-- [ngClass]="{ 'is-invalid': submitted && f.todate.errors }"  -->
+                    <label for="floatingTodate">To Date</label>
+                    <!-- <div *ngIf="submitted && f.todate.errors" class="invalid-feedback">
+                      <div *ngIf="f.todate.errors.required">To Date is required</div>
+                    </div> -->
+                </div>
+                <button [disabled]="loading"  class="w-100 btn btn-lg btn-primary mt-2" type="submit">
+                    <span *ngIf="loading" class="spinner-border spinner-border-sm mr-1"></span>
+                    Submit
+                </button>
+                <div *ngIf="error" class="alert alert-danger mt-3 mb-0">{{error}}</div>
+            </form>
+        </div>
+        <div class="card-body" *ngIf="dataready">
+            <div *ngIf="loading" class="spinner-border spinner-border-sm"></div>
+            <div class="table-responsive" *ngIf="statementlist">
+                <table class="table table-hover table-dark" >
+                    <thead>
+                        <tr>
+                            <th>Account Id</th>
+                            <th>Date</th>
+                            <th>Chq or Ref.No</th>
+                            <th>Value Date</th>
+                            <th>Withdrawal</th>
+                            <th>Deposit</th>
+                            <th>Closing Balance</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr *ngFor="let statement of statementlist">
+                            <td>{{statement.accountId}}</td>
+                            <td>{{statement.transactionDate}}</td>
+                            <td>{{statement.chqOrRefno}}</td>
+                            <td>{{statement.valueDate}}</td>
+                            <td>{{statement.withdrawal}}</td>
+                            <td>{{statement.deposit}}</td>
+                            <td>{{statement.closingBalance}}</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

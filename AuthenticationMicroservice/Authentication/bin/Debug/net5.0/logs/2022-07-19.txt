@@ -1,0 +1,15 @@
+2022-07-19 23:47:54,088 [1] INFO  App  
+ Now listening on: https://localhost:4001 
+ 
+2022-07-19 23:47:54,148 [1] INFO  App  
+ Now listening on: http://localhost:4000 
+ 
+2022-07-19 23:47:54,215 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-19 23:47:54,235 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-19 23:47:54,240 [1] INFO  App  
+ Content root path: F:\POD-4 MFPE_Project\MFPE FINAL\AuthenticationMicroservice\Authentication 
+ 

@@ -1,0 +1,105 @@
+2022-07-08 16:32:11,679 [1] INFO  App  
+ Now listening on: http://localhost:6000 
+ 
+2022-07-08 16:32:11,737 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-08 16:32:11,748 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-08 16:32:11,760 [1] INFO  App  
+ Content root path: C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\AccountMicroservice\AccountsMicroservice 
+ 
+2022-07-08 16:32:24,840 [9] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-08 16:32:37,293 [13] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-08 16:32:49,655 [4] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-08 16:34:10,419 [14] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-08 16:34:30,117 [9] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-08 16:34:30,581 [9] DEBUG App  
+ deposit() : Account Id Found. 
+ 
+2022-07-08 16:34:30,583 [9] DEBUG App  
+ deposit(): Amount Rs.1000 Sucessfully deposited into Account ID : 1022 
+ 
+2022-07-08 16:34:30,584 [9] DEBUG App  
+ deposit(): Statment list updated 
+ 
+2022-07-08 16:34:30,584 [9] DEBUG App  
+ deposit(): Transaction list updated 
+ 
+2022-07-08 16:34:34,690 [14] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-08 16:35:00,056 [12] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-08 17:08:27,480 [20] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-08 17:08:42,100 [18] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-08 17:08:42,134 [10] DEBUG App  
+ deposit() : Account Id Found. 
+ 
+2022-07-08 17:08:42,135 [10] DEBUG App  
+ deposit(): Amount Rs.1000 Sucessfully deposited into Account ID : 9922 
+ 
+2022-07-08 17:08:42,136 [10] DEBUG App  
+ deposit(): Statment list updated 
+ 
+2022-07-08 17:08:42,137 [10] DEBUG App  
+ deposit(): Transaction list updated 
+ 
+2022-07-08 17:08:45,467 [5] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-08 17:08:55,516 [20] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-08 17:08:55,544 [5] DEBUG App  
+ deposit() : Account Id Found. 
+ 
+2022-07-08 17:08:55,545 [5] DEBUG App  
+ deposit(): Amount Rs.1000 Sucessfully deposited into Account ID : 9922 
+ 
+2022-07-08 17:08:55,546 [5] DEBUG App  
+ deposit(): Statment list updated 
+ 
+2022-07-08 17:08:55,547 [5] DEBUG App  
+ deposit(): Transaction list updated 
+ 
+2022-07-08 17:08:59,200 [10] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-08 17:12:02,771 [37] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-08 17:12:31,971 [42] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-08 17:12:32,015 [43] DEBUG App  
+ deposit() : Account Id Found. 
+ 
+2022-07-08 17:12:32,016 [43] DEBUG App  
+ deposit(): Amount Rs.1000 Sucessfully deposited into Account ID : 9922 
+ 
+2022-07-08 17:12:32,017 [43] DEBUG App  
+ deposit(): Statment list updated 
+ 
+2022-07-08 17:12:32,018 [43] DEBUG App  
+ deposit(): Transaction list updated 
+ 
+2022-07-08 17:12:39,290 [41] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 

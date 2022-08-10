@@ -1,0 +1,12 @@
+2022-07-11 22:02:10,894 [1] INFO  App  
+ Now listening on: http://localhost:8000 
+ 
+2022-07-11 22:02:10,965 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-11 22:02:10,968 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-11 22:02:10,977 [1] INFO  App  
+ Content root path: C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleMicroservice 
+ 

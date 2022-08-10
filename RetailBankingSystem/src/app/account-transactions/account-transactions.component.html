@@ -1,0 +1,41 @@
+<div class="container-fluid">
+    <!--<h3 class="d-flex justify-content-center mt-3">Retail Banking System</h3>-->
+    <h5 class="d-flex justify-content-center">Account Transactions - User Page</h5>
+
+    <div class="card mt-4">
+        <h4 class="card-header">Account Transactions</h4>
+        <div class="card-body">
+            <div *ngIf="loading" class="spinner-border spinner-border-sm"></div>
+            <div *ngIf="transactions">
+                <div class="table-responsive">
+                    <table class="table table-hover table-dark table-bordered">
+                        <thead>
+                            <tr>
+                                <th>Account Id</th>
+                                <th>Amount</th>
+                                <th>Counterparty_Id</th>
+                                <th>Date</th>
+                                <th>Payment Method</th>
+                                <th>Service Id</th>
+                                <th>Status Code</th>
+                                <th>Type Code</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr *ngFor="let t of transactions">
+                                <td>{{t.account_Id}}</td>
+                                <td>{{t.amount_of_Transaction}}</td>
+                                <td>{{t.counterparty_Id}}</td>
+                                <td>{{t.date_of_Transaction}}</td>
+                                <td>{{t.payment_Method_Code}}</td>
+                                <td>{{t.service_Id}}</td>
+                                <td>{{t.transaction_Status_Code}}</td>
+                                <td>{{t.transaction_Type_Code}}</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

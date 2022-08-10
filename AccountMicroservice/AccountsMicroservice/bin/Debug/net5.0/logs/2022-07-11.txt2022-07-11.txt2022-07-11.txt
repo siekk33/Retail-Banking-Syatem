@@ -1,0 +1,63 @@
+2022-07-11 22:02:12,722 [1] INFO  App  
+ Now listening on: http://localhost:6000 
+ 
+2022-07-11 22:02:12,761 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-11 22:02:12,766 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-11 22:02:12,774 [1] INFO  App  
+ Content root path: C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\AccountMicroservice\AccountsMicroservice 
+ 
+2022-07-11 22:03:11,638 [21] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-11 22:03:35,213 [19] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-11 22:03:35,691 [26] DEBUG App  
+ deposit() : Account Id Found. 
+ 
+2022-07-11 22:03:35,692 [26] DEBUG App  
+ deposit(): Amount Rs.1000 Sucessfully deposited into Account ID : 9921 
+ 
+2022-07-11 22:03:35,693 [26] DEBUG App  
+ deposit(): Statment list updated 
+ 
+2022-07-11 22:03:35,694 [26] DEBUG App  
+ deposit(): Transaction list updated 
+ 
+2022-07-11 22:03:40,654 [28] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-11 22:04:05,002 [19] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-11 22:04:17,263 [19] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2022-07-11 22:04:17,310 [30] DEBUG App  
+ deposit() : Account Id Found. 
+ 
+2022-07-11 22:04:17,311 [30] DEBUG App  
+ deposit(): Amount Rs.5000 Sucessfully deposited into Account ID : 9911 
+ 
+2022-07-11 22:04:17,312 [30] DEBUG App  
+ deposit(): Statment list updated 
+ 
+2022-07-11 22:04:17,313 [30] DEBUG App  
+ deposit(): Transaction list updated 
+ 
+2022-07-11 22:04:22,681 [19] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2022-07-11 22:05:08,796 [36] DEBUG App  
+ getAccountStatement() : No statements found within mentioned Time Frame 
+ 
+2022-07-11 22:05:08,864 [32] DEBUG App  
+ getAccountStatement() : No statements found within mentioned Time Frame 
+ 
+2022-07-11 22:05:17,947 [36] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 

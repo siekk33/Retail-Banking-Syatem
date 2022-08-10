@@ -1,0 +1,18 @@
+2022-07-11 14:45:54,111 [1] INFO  App  
+ Now listening on: https://localhost:6001 
+ 
+2022-07-11 14:45:54,123 [1] INFO  App  
+ Now listening on: http://localhost:6000 
+ 
+2022-07-11 14:45:54,127 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-11 14:45:54,134 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-11 14:45:54,151 [1] INFO  App  
+ Content root path: C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\AccountMicroservice\AccountsMicroservice 
+ 
+2022-07-11 14:49:00,222 [18] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 

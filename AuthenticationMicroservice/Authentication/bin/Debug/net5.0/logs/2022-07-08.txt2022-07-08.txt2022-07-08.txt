@@ -1,0 +1,387 @@
+2022-07-08 16:32:18,994 [1] INFO  App  
+ Now listening on: http://localhost:4000 
+ 
+2022-07-08 16:32:19,073 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-08 16:32:19,195 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-08 16:32:19,416 [1] INFO  App  
+ Content root path: C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\AuthenticationMicroservice\Authentication 
+ 
+2022-07-08 16:32:23,327 [12] INFO  App  
+ requestId: 0HMJ0Q59O8JCA:00000003, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Accounts/GetCustomerAccountDetailsById?customerId={id} 
+ 
+2022-07-08 16:32:23,351 [12] INFO  App  
+ requestId: 0HMJ0Q59O8JCA:00000003, previousRequestId: no previous request id, message: /gateway/customerAccountDetails/992 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-08 16:32:23,360 [12] INFO  App  
+ requestId: 0HMJ0Q59O8JCA:00000003, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/customerAccountDetails/992 
+ 
+2022-07-08 16:32:23,377 [12] INFO  App  
+ requestId: 0HMJ0Q59O8JCA:00000003, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-08 16:32:23,406 [12] INFO  App  
+ requestId: 0HMJ0Q59O8JCA:00000003, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-08 16:32:23,411 [12] INFO  App  
+ requestId: 0HMJ0Q59O8JCA:00000003, previousRequestId: no previous request id, message: /api/Accounts/GetCustomerAccountDetailsById?customerId={id} route does not require user to be authorized 
+ 
+2022-07-08 16:32:24,906 [6] INFO  App  
+ requestId: 0HMJ0Q59O8JCA:00000003, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=992 
+ 
+2022-07-08 16:32:37,230 [5] INFO  App  
+ requestId: 0HMJ0Q59O8JCA:0000000B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Accounts/GetCustomerAccountDetailsById?customerId={id} 
+ 
+2022-07-08 16:32:37,234 [5] INFO  App  
+ requestId: 0HMJ0Q59O8JCA:0000000B, previousRequestId: no previous request id, message: /gateway/customerAccountDetails/992 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-08 16:32:37,242 [5] INFO  App  
+ requestId: 0HMJ0Q59O8JCA:0000000B, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/customerAccountDetails/992 
+ 
+2022-07-08 16:32:37,259 [5] INFO  App  
+ requestId: 0HMJ0Q59O8JCA:0000000B, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-08 16:32:37,265 [5] INFO  App  
+ requestId: 0HMJ0Q59O8JCA:0000000B, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-08 16:32:37,275 [5] INFO  App  
+ requestId: 0HMJ0Q59O8JCA:0000000B, previousRequestId: no previous request id, message: /api/Accounts/GetCustomerAccountDetailsById?customerId={id} route does not require user to be authorized 
+ 
+2022-07-08 16:32:37,303 [6] INFO  App  
+ requestId: 0HMJ0Q59O8JCA:0000000B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=992 
+ 
+2022-07-08 16:32:49,601 [5] INFO  App  
+ requestId: 0HMJ0Q59O8JCA:00000017, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Accounts/GetCustomerAccountDetailsById?customerId={id} 
+ 
+2022-07-08 16:32:49,612 [5] INFO  App  
+ requestId: 0HMJ0Q59O8JCA:00000017, previousRequestId: no previous request id, message: /gateway/customerAccountDetails/992 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-08 16:32:49,625 [5] INFO  App  
+ requestId: 0HMJ0Q59O8JCA:00000017, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/customerAccountDetails/992 
+ 
+2022-07-08 16:32:49,633 [5] INFO  App  
+ requestId: 0HMJ0Q59O8JCA:00000017, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-08 16:32:49,638 [5] INFO  App  
+ requestId: 0HMJ0Q59O8JCA:00000017, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-08 16:32:49,645 [5] INFO  App  
+ requestId: 0HMJ0Q59O8JCA:00000017, previousRequestId: no previous request id, message: /api/Accounts/GetCustomerAccountDetailsById?customerId={id} route does not require user to be authorized 
+ 
+2022-07-08 16:32:49,666 [17] INFO  App  
+ requestId: 0HMJ0Q59O8JCA:00000017, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=992 
+ 
+2022-07-08 16:33:01,623 [7] INFO  App  
+ requestId: 0HMJ0Q59O8JCA:00000025, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Customers 
+ 
+2022-07-08 16:33:01,633 [7] INFO  App  
+ requestId: 0HMJ0Q59O8JCA:00000025, previousRequestId: no previous request id, message: /gateway/customers is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-08 16:33:01,644 [7] INFO  App  
+ requestId: 0HMJ0Q59O8JCA:00000025, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/customers 
+ 
+2022-07-08 16:33:01,656 [7] INFO  App  
+ requestId: 0HMJ0Q59O8JCA:00000025, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-08 16:33:01,665 [7] INFO  App  
+ requestId: 0HMJ0Q59O8JCA:00000025, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-08 16:33:01,676 [7] INFO  App  
+ requestId: 0HMJ0Q59O8JCA:00000025, previousRequestId: no previous request id, message: /api/Customers route does not require user to be authorized 
+ 
+2022-07-08 16:33:02,485 [7] INFO  App  
+ requestId: 0HMJ0Q59O8JCA:00000025, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:5001/api/Customers 
+ 
+2022-07-08 16:34:07,473 [5] INFO  App  
+ Authenticating User 
+ 
+2022-07-08 16:34:07,510 [5] INFO  App  
+ token Generated 
+ 
+2022-07-08 16:34:10,367 [10] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:0000000B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Accounts/GetCustomerAccountDetailsById?customerId={id} 
+ 
+2022-07-08 16:34:10,371 [10] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:0000000B, previousRequestId: no previous request id, message: /gateway/customerAccountDetails/102 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-08 16:34:10,379 [10] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:0000000B, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/customerAccountDetails/102 
+ 
+2022-07-08 16:34:10,384 [10] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:0000000B, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-08 16:34:10,394 [10] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:0000000B, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-08 16:34:10,400 [10] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:0000000B, previousRequestId: no previous request id, message: /api/Accounts/GetCustomerAccountDetailsById?customerId={id} route does not require user to be authorized 
+ 
+2022-07-08 16:34:10,428 [6] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:0000000B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=102 
+ 
+2022-07-08 16:34:29,030 [4] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000013, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Transaction/deposit?accountId={id}&amount={amt} 
+ 
+2022-07-08 16:34:29,036 [4] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000013, previousRequestId: no previous request id, message: /gateway/tDeposit/1022/1000 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-08 16:34:29,041 [4] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000013, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/tDeposit/1022/1000 
+ 
+2022-07-08 16:34:29,047 [4] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000013, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-08 16:34:29,052 [4] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000013, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-08 16:34:29,057 [4] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000013, previousRequestId: no previous request id, message: /api/Transaction/deposit?accountId={id}&amount={amt} route does not require user to be authorized 
+ 
+2022-07-08 16:34:30,660 [17] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000013, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7001/api/Transaction/deposit?accountId=1022&amount=1000 
+ 
+2022-07-08 16:34:34,627 [5] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:0000001B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Accounts/GetCustomerAccountDetailsById?customerId={id} 
+ 
+2022-07-08 16:34:34,636 [5] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:0000001B, previousRequestId: no previous request id, message: /gateway/customerAccountDetails/102 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-08 16:34:34,644 [5] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:0000001B, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/customerAccountDetails/102 
+ 
+2022-07-08 16:34:34,653 [5] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:0000001B, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-08 16:34:34,661 [5] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:0000001B, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-08 16:34:34,670 [5] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:0000001B, previousRequestId: no previous request id, message: /api/Accounts/GetCustomerAccountDetailsById?customerId={id} route does not require user to be authorized 
+ 
+2022-07-08 16:34:34,701 [6] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:0000001B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=102 
+ 
+2022-07-08 16:34:59,997 [12] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000023, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Accounts/GetCustomerAccountDetailsById?customerId={id} 
+ 
+2022-07-08 16:35:00,002 [12] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000023, previousRequestId: no previous request id, message: /gateway/customerAccountDetails/102 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-08 16:35:00,007 [12] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000023, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/customerAccountDetails/102 
+ 
+2022-07-08 16:35:00,016 [12] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000023, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-08 16:35:00,021 [12] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000023, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-08 16:35:00,024 [12] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000023, previousRequestId: no previous request id, message: /api/Accounts/GetCustomerAccountDetailsById?customerId={id} route does not require user to be authorized 
+ 
+2022-07-08 16:35:00,064 [6] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000023, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=102 
+ 
+2022-07-08 17:08:20,518 [17] INFO  App  
+ Authenticating User 
+ 
+2022-07-08 17:08:20,524 [17] INFO  App  
+ token Generated 
+ 
+2022-07-08 17:08:27,344 [16] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000033, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Accounts/GetCustomerAccountDetailsById?customerId={id} 
+ 
+2022-07-08 17:08:27,353 [16] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000033, previousRequestId: no previous request id, message: /gateway/customerAccountDetails/992 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-08 17:08:27,357 [16] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000033, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/customerAccountDetails/992 
+ 
+2022-07-08 17:08:27,361 [16] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000033, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-08 17:08:27,366 [16] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000033, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-08 17:08:27,371 [16] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000033, previousRequestId: no previous request id, message: /api/Accounts/GetCustomerAccountDetailsById?customerId={id} route does not require user to be authorized 
+ 
+2022-07-08 17:08:27,487 [6] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000033, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=992 
+ 
+2022-07-08 17:08:41,849 [10] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:0000003B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Transaction/deposit?accountId={id}&amount={amt} 
+ 
+2022-07-08 17:08:41,854 [10] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:0000003B, previousRequestId: no previous request id, message: /gateway/tDeposit/9922/1000 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-08 17:08:41,858 [10] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:0000003B, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/tDeposit/9922/1000 
+ 
+2022-07-08 17:08:41,862 [10] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:0000003B, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-08 17:08:41,865 [10] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:0000003B, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-08 17:08:41,868 [10] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:0000003B, previousRequestId: no previous request id, message: /api/Transaction/deposit?accountId={id}&amount={amt} route does not require user to be authorized 
+ 
+2022-07-08 17:08:42,156 [6] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:0000003B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7001/api/Transaction/deposit?accountId=9922&amount=1000 
+ 
+2022-07-08 17:08:45,419 [16] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000043, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Accounts/GetCustomerAccountDetailsById?customerId={id} 
+ 
+2022-07-08 17:08:45,427 [16] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000043, previousRequestId: no previous request id, message: /gateway/customerAccountDetails/992 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-08 17:08:45,436 [16] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000043, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/customerAccountDetails/992 
+ 
+2022-07-08 17:08:45,444 [16] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000043, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-08 17:08:45,452 [16] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000043, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-08 17:08:45,459 [16] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000043, previousRequestId: no previous request id, message: /api/Accounts/GetCustomerAccountDetailsById?customerId={id} route does not require user to be authorized 
+ 
+2022-07-08 17:08:45,479 [15] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000043, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=992 
+ 
+2022-07-08 17:08:55,463 [13] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000049, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Transaction/deposit?accountId={id}&amount={amt} 
+ 
+2022-07-08 17:08:55,470 [13] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000049, previousRequestId: no previous request id, message: /gateway/tDeposit/9922/1000 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-08 17:08:55,476 [13] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000049, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/tDeposit/9922/1000 
+ 
+2022-07-08 17:08:55,480 [13] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000049, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-08 17:08:55,483 [13] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000049, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-08 17:08:55,487 [13] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000049, previousRequestId: no previous request id, message: /api/Transaction/deposit?accountId={id}&amount={amt} route does not require user to be authorized 
+ 
+2022-07-08 17:08:55,566 [6] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000049, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7001/api/Transaction/deposit?accountId=9922&amount=1000 
+ 
+2022-07-08 17:08:59,162 [4] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000051, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Accounts/GetCustomerAccountDetailsById?customerId={id} 
+ 
+2022-07-08 17:08:59,168 [4] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000051, previousRequestId: no previous request id, message: /gateway/customerAccountDetails/992 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-08 17:08:59,176 [4] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000051, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/customerAccountDetails/992 
+ 
+2022-07-08 17:08:59,182 [4] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000051, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-08 17:08:59,189 [4] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000051, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-08 17:08:59,195 [4] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000051, previousRequestId: no previous request id, message: /api/Accounts/GetCustomerAccountDetailsById?customerId={id} route does not require user to be authorized 
+ 
+2022-07-08 17:08:59,210 [6] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000051, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=992 
+ 
+2022-07-08 17:11:36,035 [11] INFO  App  
+ Authenticating User 
+ 
+2022-07-08 17:11:36,038 [11] INFO  App  
+ token Generated 
+ 
+2022-07-08 17:11:55,863 [4] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000061, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Customers 
+ 
+2022-07-08 17:11:55,872 [4] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000061, previousRequestId: no previous request id, message: /gateway/customers is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-08 17:11:55,880 [4] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000061, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/customers 
+ 
+2022-07-08 17:11:55,893 [4] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000061, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-08 17:11:55,900 [4] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000061, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-08 17:11:55,905 [4] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000061, previousRequestId: no previous request id, message: /api/Customers route does not require user to be authorized 
+ 
+2022-07-08 17:11:56,088 [23] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000061, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:5001/api/Customers 
+ 
+2022-07-08 17:12:02,672 [10] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000069, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Accounts/GetCustomerAccountDetailsById?customerId={id} 
+ 
+2022-07-08 17:12:02,675 [10] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000069, previousRequestId: no previous request id, message: /gateway/customerAccountDetails/992 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-08 17:12:02,681 [10] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000069, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/customerAccountDetails/992 
+ 
+2022-07-08 17:12:02,685 [10] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000069, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-08 17:12:02,689 [10] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000069, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-08 17:12:02,694 [10] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000069, previousRequestId: no previous request id, message: /api/Accounts/GetCustomerAccountDetailsById?customerId={id} route does not require user to be authorized 
+ 
+2022-07-08 17:12:02,779 [6] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000069, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=992 
+ 
+2022-07-08 17:12:31,764 [11] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000071, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Transaction/deposit?accountId={id}&amount={amt} 
+ 
+2022-07-08 17:12:31,771 [11] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000071, previousRequestId: no previous request id, message: /gateway/tDeposit/9922/1000 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-08 17:12:31,776 [11] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000071, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/tDeposit/9922/1000 
+ 
+2022-07-08 17:12:31,780 [11] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000071, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-08 17:12:31,786 [11] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000071, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-08 17:12:31,792 [11] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000071, previousRequestId: no previous request id, message: /api/Transaction/deposit?accountId={id}&amount={amt} route does not require user to be authorized 
+ 
+2022-07-08 17:12:32,044 [28] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000071, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7001/api/Transaction/deposit?accountId=9922&amount=1000 
+ 
+2022-07-08 17:12:39,247 [26] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000079, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/Accounts/GetCustomerAccountDetailsById?customerId={id} 
+ 
+2022-07-08 17:12:39,254 [26] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000079, previousRequestId: no previous request id, message: /gateway/customerAccountDetails/992 is an authenticated route. AuthenticationMiddleware checking if client is authenticated 
+ 
+2022-07-08 17:12:39,262 [26] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000079, previousRequestId: no previous request id, message: Client has been authenticated for /gateway/customerAccountDetails/992 
+ 
+2022-07-08 17:12:39,270 [26] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000079, previousRequestId: no previous request id, message: route is authenticated scopes must be checked 
+ 
+2022-07-08 17:12:39,276 [26] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000079, previousRequestId: no previous request id, message: user scopes is authorized calling next authorization checks 
+ 
+2022-07-08 17:12:39,283 [26] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000079, previousRequestId: no previous request id, message: /api/Accounts/GetCustomerAccountDetailsById?customerId={id} route does not require user to be authorized 
+ 
+2022-07-08 17:12:39,306 [28] INFO  App  
+ requestId: 0HMJ0Q59O8JCC:00000079, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=992 
+ 

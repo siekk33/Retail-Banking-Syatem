@@ -1,0 +1,120 @@
+2021-11-01 11:00:04,459 [1] INFO  App  
+ Now listening on: https://localhost:6001 
+ 
+2021-11-01 11:00:04,465 [1] INFO  App  
+ Now listening on: http://localhost:6000 
+ 
+2021-11-01 11:00:04,466 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-01 11:00:04,466 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-01 11:00:04,466 [1] INFO  App  
+ Content root path: D:\COGNIZANT\MFPE\MFPE FINAL\AccountMicroservice\AccountsMicroservice 
+ 
+2021-11-01 11:14:27,042 [14] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2021-11-01 11:15:03,658 [19] DEBUG App  
+ getAccountStatement(): Fetching statements of the most recent month - Dates were not specified. 
+ 
+2021-11-01 11:15:03,693 [19] DEBUG App  
+ getAccountStatement(): Fetching statements of the most recent month - Dates were not specified. 
+ 
+2021-11-01 11:15:25,242 [25] DEBUG App  
+ getAccountById() : Account ID Found. 
+ 
+2021-11-01 11:15:25,484 [24] DEBUG App  
+ deposit() : Account Id Found. 
+ 
+2021-11-01 11:15:25,484 [24] DEBUG App  
+ deposit(): Amount Rs.2345678 Sucessfully deposited into Account ID : 1011 
+ 
+2021-11-01 11:15:25,485 [24] DEBUG App  
+ deposit(): Statment list updated 
+ 
+2021-11-01 11:15:25,485 [24] DEBUG App  
+ deposit(): Transaction list updated 
+ 
+2021-11-01 22:31:38,060 [1] INFO  App  
+ Now listening on: https://localhost:6001 
+ 
+2021-11-01 22:31:38,070 [1] INFO  App  
+ Now listening on: http://localhost:6000 
+ 
+2021-11-01 22:31:38,073 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-01 22:31:38,075 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-01 22:31:38,077 [1] INFO  App  
+ Content root path: C:\Users\Siri\Desktop\MFPE\MFPE FINAL\AccountMicroservice\AccountsMicroservice 
+ 
+2021-11-01 22:31:51,683 [2] INFO  App  
+ Application is shutting down... 
+ 
+2021-11-01 22:31:58,763 [1] INFO  App  
+ Now listening on: https://localhost:6001 
+ 
+2021-11-01 22:31:58,779 [1] INFO  App  
+ Now listening on: http://localhost:6000 
+ 
+2021-11-01 22:31:58,791 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-01 22:31:58,794 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-01 22:31:58,801 [1] INFO  App  
+ Content root path: C:\Users\Siri\Desktop\MFPE\MFPE FINAL\AccountMicroservice\AccountsMicroservice 
+ 
+2021-11-01 22:46:36,241 [25] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2021-11-01 22:46:57,112 [25] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2021-11-01 22:49:51,145 [1] INFO  App  
+ Now listening on: https://localhost:6001 
+ 
+2021-11-01 22:49:51,153 [1] INFO  App  
+ Now listening on: http://localhost:6000 
+ 
+2021-11-01 22:49:51,154 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-01 22:49:51,155 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-01 22:49:51,155 [1] INFO  App  
+ Content root path: C:\Users\Siri\Desktop\MFPE\MFPE FINAL\AccountMicroservice\AccountsMicroservice 
+ 
+2021-11-01 22:53:09,416 [16] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2021-11-01 22:53:14,503 [17] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2021-11-01 22:57:56,240 [30] DEBUG App  
+ getCustomerAccounts() : Customer accounts fetched successfully. 
+ 
+2021-11-01 23:57:57,071 [1] INFO  App  
+ Now listening on: https://localhost:6001 
+ 
+2021-11-01 23:57:57,087 [1] INFO  App  
+ Now listening on: http://localhost:6000 
+ 
+2021-11-01 23:57:57,093 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-01 23:57:57,102 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-01 23:57:57,109 [1] INFO  App  
+ Content root path: D:\Practice Questions\Main Project\MFPE FINAL\AccountMicroservice\AccountsMicroservice 
+ 
+2021-11-01 23:58:13,080 [2] INFO  App  
+ Application is shutting down... 
+ 

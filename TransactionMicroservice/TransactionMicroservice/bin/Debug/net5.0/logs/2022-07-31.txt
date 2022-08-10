@@ -1,0 +1,57 @@
+2022-07-31 00:24:15,481 [1] INFO  App  
+ Now listening on: https://localhost:7001 
+ 
+2022-07-31 00:24:15,523 [1] INFO  App  
+ Now listening on: http://localhost:7000 
+ 
+2022-07-31 00:24:15,538 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-07-31 00:24:15,559 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-07-31 00:24:15,562 [1] INFO  App  
+ Content root path: F:\POD-4 MFPE_Project\MFPE FINAL\TransactionMicroservice\TransactionMicroservice 
+ 
+2022-07-31 00:25:05,166 [9] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=101 
+ 
+2022-07-31 00:25:05,170 [9] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetCustomerAccountDetailsById?customerId=101 
+ 
+2022-07-31 00:25:05,307 [17] INFO  App  
+ Received HTTP response headers after 132.4758ms - 200 
+ 
+2022-07-31 00:25:05,311 [17] INFO  App  
+ End processing HTTP request after 151.7202ms - 200 
+ 
+2022-07-31 00:25:05,934 [9] INFO  App  
+ FinancialTransaction Details 
+ 
+2022-07-31 00:25:46,031 [4] INFO  App  
+ Start processing HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=1011 
+ 
+2022-07-31 00:25:46,033 [4] INFO  App  
+ Sending HTTP request GET https://localhost:6001/api/Accounts/GetAccountById?accountid=1011 
+ 
+2022-07-31 00:25:46,047 [22] INFO  App  
+ Received HTTP response headers after 12.8611ms - 200 
+ 
+2022-07-31 00:25:46,050 [22] INFO  App  
+ End processing HTTP request after 20.5128ms - 200 
+ 
+2022-07-31 00:25:46,054 [4] INFO  App  
+ Start processing HTTP request POST https://localhost:6001/api/Accounts/DepositAmount?accountId=1011&amount=400 
+ 
+2022-07-31 00:25:46,058 [4] INFO  App  
+ Sending HTTP request POST https://localhost:6001/api/Accounts/DepositAmount?accountId=1011&amount=400 
+ 
+2022-07-31 00:25:46,071 [22] INFO  App  
+ Received HTTP response headers after 14.0183ms - 200 
+ 
+2022-07-31 00:25:46,075 [22] INFO  App  
+ End processing HTTP request after 20.3723ms - 200 
+ 
+2022-07-31 00:25:46,080 [22] INFO  App  
+ successfully Deposited the Amount 
+ 

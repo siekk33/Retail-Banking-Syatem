@@ -1,0 +1,646 @@
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\CoverletSourceRootsMapping
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleMicroservice.deps.json
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleMicroservice.runtimeconfig.json
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleMicroservice.runtimeconfig.dev.json
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\log4net.config
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\appsettings.Development.json
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\appsettings.json
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleMicroservice.exe
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\testhost.exe
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\testhost.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\nunit.engine.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\nunit.engine.api.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\nunit.engine.core.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\testcentric.engine.metadata.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleTest.deps.json
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleTest.runtimeconfig.json
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleTest.runtimeconfig.dev.json
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleTest.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ref\RuleTest.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleTest.pdb
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Castle.Core.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\log4net.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Moq.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\NLog.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\NuGet.Frameworks.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\nunit.framework.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleMicroservice.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleMicroservice.pdb
+F:\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.csproj.AssemblyReference.cache
+F:\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.AssemblyInfoInputs.cache
+F:\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.AssemblyInfo.cs
+F:\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.csproj.CoreCompileInputs.cache
+F:\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.csproj.CopyComplete
+F:\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\ref\RuleTest.dll
+F:\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.pdb
+F:\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.genruntimeconfig.cache
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\CoverletSourceRootsMapping
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\log4net.config
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\appsettings.Development.json
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\testhost.exe
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\nunit.engine.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\nunit.engine.api.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\nunit.engine.core.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\testcentric.engine.metadata.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleMicroservice.deps.json
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleMicroservice.runtimeconfig.json
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleMicroservice.runtimeconfig.dev.json
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\appsettings.json
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleMicroservice.exe
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\testhost.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleTest.deps.json
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleTest.runtimeconfig.json
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleTest.runtimeconfig.dev.json
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleTest.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ref\RuleTest.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleTest.pdb
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Castle.Core.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\log4net.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Moq.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\NLog.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\nunit.framework.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleMicroservice.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleMicroservice.pdb
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.csproj.AssemblyReference.cache
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.AssemblyInfoInputs.cache
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.AssemblyInfo.cs
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.csproj.CoreCompileInputs.cache
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.csproj.CopyComplete
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\ref\RuleTest.dll
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.pdb
+D:\Practice Questions\Main Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.genruntimeconfig.cache
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\log4net.config
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\appsettings.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\testhost.exe
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\testcentric.engine.metadata.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleMicroservice.deps.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleMicroservice.runtimeconfig.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleMicroservice.runtimeconfig.dev.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleMicroservice.exe
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\testhost.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleTest.deps.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleTest.runtimeconfig.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleTest.runtimeconfig.dev.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleTest.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ref\RuleTest.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleTest.pdb
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\log4net.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Moq.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\NLog.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleMicroservice.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleMicroservice.pdb
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.csproj.AssemblyReference.cache
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.AssemblyInfoInputs.cache
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.AssemblyInfo.cs
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.csproj.CoreCompileInputs.cache
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.csproj.CopyComplete
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\ref\RuleTest.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.pdb
+C:\Users\shukl\Documents\angular-cognizant file\POD-5 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.genruntimeconfig.cache
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\log4net.config
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\appsettings.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\testhost.exe
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\testcentric.engine.metadata.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleMicroservice.deps.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleMicroservice.runtimeconfig.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleMicroservice.runtimeconfig.dev.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleMicroservice.exe
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\testhost.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleTest.deps.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleTest.runtimeconfig.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleTest.runtimeconfig.dev.json
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleTest.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ref\RuleTest.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleTest.pdb
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\log4net.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Moq.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\NLog.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleMicroservice.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleMicroservice.pdb
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.csproj.AssemblyReference.cache
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.AssemblyInfoInputs.cache
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.AssemblyInfo.cs
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.csproj.CoreCompileInputs.cache
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.csproj.CopyComplete
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\ref\RuleTest.dll
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.pdb
+C:\Users\shukl\Documents\angular-cognizant file\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.genruntimeconfig.cache
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\CoverletSourceRootsMapping
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\log4net.config
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\appsettings.Development.json
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\appsettings.json
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\testhost.exe
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\nunit.engine.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\nunit.engine.api.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\nunit.engine.core.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\testcentric.engine.metadata.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleMicroservice.deps.json
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleMicroservice.runtimeconfig.json
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleMicroservice.runtimeconfig.dev.json
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleMicroservice.StaticWebAssets.xml
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleMicroservice.exe
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\testhost.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleTest.deps.json
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleTest.runtimeconfig.json
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleTest.runtimeconfig.dev.json
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleTest.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleTest.pdb
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Castle.Core.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\log4net.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Moq.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\NLog.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\NuGet.Frameworks.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\nunit.framework.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleMicroservice.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\bin\Debug\net5.0\RuleMicroservice.pdb
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.csproj.AssemblyReference.cache
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.AssemblyInfoInputs.cache
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.AssemblyInfo.cs
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.csproj.CoreCompileInputs.cache
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.csproj.CopyComplete
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\refint\RuleTest.dll
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.pdb
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\RuleTest.genruntimeconfig.cache
+F:\POD-4 MFPE_Project\MFPE FINAL\RuleMicroservice\RuleTest\obj\Debug\net5.0\ref\RuleTest.dll
